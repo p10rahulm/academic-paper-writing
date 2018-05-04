@@ -24,13 +24,14 @@ If you liked these notes, feel free to pass on.
 - Real world progress happens through progress in the scientific community
 - Most importantly if you are in academia - publish or perish! Helps in getting salaries, grants, promotions, etc in academia
 
-## Journals
+--------------------------------------
 
-### Know your community
+## The key to getting published - KYC - Know Your Community!
 
-- Knowing the community - of scientists and researchers, of journals, of papers - helps you know the context of your work
+- Knowing the community - of scientists and researchers, of journals, of papers, and of conferences - helps you know the context of your field. As a new person in this field it's easy to get overwhelmed, but after a while you may realize that you start seeing the work of the same researchers and the same conferences over and over. 
+- Know that research is built over a lifetime. Can you imagine a sportsperson who doesn't know his/her sport's biggest names? Or can you imagine a politician who doesn't understand the politics of the most eminent politicians of his/her day? While the understanding of a community is not an overnight process, it is what will enable you to become a part of that community. If you intend to do research in a particular domain, entrench yourself in that community you must!
 
-- The questions to consider are
+- When surveying your field or domain, the questions to consider are
   - Which academic conferences are important for your research
   - Which academic journals are important in your area
   - What are the theories and concepts important to your domain 
@@ -42,41 +43,46 @@ If you liked these notes, feel free to pass on.
   - Is it qualitative or quantitative
 
 - Choose a good paper/course/resource and follow links to other papers
--- Classify into groups - essential papers and related papers
--- Classify domains also similarly, essential and related
+  - Classify into groups - essential papers and related papers
+  - Classify domains also similarly, essential and related
 
 - Making a recent 10 year bibliography on your topic is a good place to start
+
+--------------------------------------
+
+## Journals
 
 ### How do the journals work?
 
 - In 3 words: Peer Review System!
--- Article sent to chief editor 
--- Chief editor either bins the paper or sends to reviewers
--- Reviewers make suggestions to improve or critique the paper
--- They send comments back to editor
--- Editor bins it or agrees to publish with or without modifications
+  - Article sent to chief editor 
+  - Chief editor either bins the paper or sends to reviewers
+  - Reviewers make suggestions to improve or critique the paper
+  - They send comments back to editor
+  - Editor bins it or agrees to publish with or without modifications
 
 - Know your journal
--- Anonymity (or peer review process)
--- Acceptance Ratio (5% to 70%)
--- Time Scale (several months to years) - pre print to arxiv for speed
--- Content Accuracy
+  - Anonymity (or peer review process)
+  - Acceptance Ratio (5% to 70%)
+  - Time Scale (several months to years) - pre print to arxiv for speed
+  - Content Accuracy
 
 * Who pays for publication? author or readers?
 
 - Ambit of a journal
--- Tailor your paper to the journal to avoid desk reject. Make it read (formatting,template) like existing articles in that journal
--- Know the editorial board and its composition. Knowing their kind of work and areas and scientific views helps avoid rejects. Ex: do they look for data backing up every theoretical claim?
--- Know the views of your editor (who forwards your paper to peer reviewers). Is your paper coherent with the editorial line of the journal (same as with newspaper articles!). You may be able to adapt the paper to fit with editorial views
--- Essential that you cite references that are most often cited in publications from this journal. Its called giving back to the journal! :)
+  - Tailor your paper to the journal to avoid desk reject. Make it read (formatting,template) like existing articles in that journal
+  - Know the editorial board and its composition. Knowing their kind of work and areas and scientific views helps avoid rejects. Ex: do they look for data backing up every theoretical claim?
+  - Know the views of your editor (who forwards your paper to peer reviewers). Is your paper coherent with the editorial line of the journal (same as with newspaper articles!). You may be able to adapt the paper to fit with editorial views
+  - Essential that you cite references that are most often cited in publications from this journal. Its called giving back to the journal! :)
 
 - Key elements in communication with the journal editor
--- Abstract
---- Abstract sums up the key findings of your research and is the first thing most people will read.
--- The cover letter
---- Cover letter contains research and motivations and why the journal is a good match for your work.
+  - Abstract
+    - Abstract sums up the key findings of your research and is the first thing most people will read.
+  - The cover letter
+    - Cover letter contains research and motivations and why the journal is a good match for your work.
 
-### What is the IP? Who owns it?
+### A Note about IP OR Why it's important to cite
+
 - When you write something in a specific journal, you agree to give full access to all the results by the journal.
 - You keep the basic intellectual property for the paper but give away copyright to the journal.
 - *What you write is no longer owned by you* but is owned by the firm publishing the paper
@@ -84,66 +90,83 @@ If you liked these notes, feel free to pass on.
 - You can however use an image or text if you cite the original author. Citation from the scientific point of view also leads the reader to the original source of content
 - Publication different from patent as you will not have legal right on your research
 
-- Ethical guidelines
--- Who is an author? An author plays a role in the conception, design, analysis or writing of the study. You should be able to tell a journal what work each author did. It is also important as the authors gain due credit for work done.
--- You may not submit a paper to different journals at the same time - or even submit equivalent findings in two separated papers
--- Ethical guidelines in various fields might be different. For example in biology, research participants must give consent to participate in study.
+### Ethical guidelines
 
+- Who is an author? An author plays a role in the conception, design, analysis or writing of the study. You should be able to tell a journal what work each author did. It is also important as the authors gain due credit for work done.
+- You may not submit a paper to different journals at the same time - or even submit equivalent findings in two separated papers
+- Ethical guidelines in various fields might be different. For example in biology, research participants must give consent to participate in study.
 
-## Your Paper
+--------------------------------------
+
+## Understanding your Paper
 
 ### What is the paper about
 
 - Will it pass the so what test?
--- What will change in the way academics see the field?
--- What will i bring to the table that hasn't been said before in those terms
--- The literature survey is super important to answer this question, does it say anything that hasn't been said before
+  - What will change in the way academics see the field?
+  - What will i bring to the table that hasn't been said before in those terms
+  - The literature survey is super important to answer this question, does it say anything that hasn't been said before
 - Who should i discuss with so that my paper is relevant
 - Identify a colleague who can help you position the work in the terms chosen -  by yourself, by the journal, by your community
 - What kind of paper do you want to write? Emperical? Theoretical? For example do you wnat to publish is Harvard Business Review or Industrial and Corporate change?
 - Thus the task of delimiting the paper has two goals
--- Building a coherent reasoning throughout the paper
--- Position the paper within the field
+  - Building a coherent reasoning throughout the paper
+  - Position the paper within the field
 
 #### Exercise
 - Discuss the main idea for your paper in 30 words in keeping with the following steps:
--- Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
--- Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
--- Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
+  - Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
+  - Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
+  - Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
 
+--------------------------------------
 
-### Literature Review
-- Objective of a literature review
--- The purpose of science is to expanding human knowledge, or expanding the frontier of the known vis-a-vis the unknown. A scientific problem only arises at this frontier.
--- If you are looking before the frontier, you are looking for something already found. If you look too deep into the unknown you may get lost.
--- As a young researcher, one doesn't know whats at this frontier. Theories get proven and others debunked. To go through all that work to prove or disprove something already done may not be worthwhile, so the literature survey is paramount. 
--- Further the frontier is always moving, and thus one may not rely purely on texts or books in the field to know where the frontier is.
+## Literature Review
+
+### Objective of a literature review
+
+- The purpose of science is to expanding human knowledge, or expanding the frontier of the known vis-a-vis the unknown. A scientific problem only arises at this frontier.
+  - If you are looking before the frontier, you are looking for something already found. If you look too deep into the unknown you may get lost.
+  - As a young researcher, one doesn't know whats at this frontier. Theories get proven and others debunked. To go through all that work to prove or disprove something already done may not be worthwhile, so the literature survey is paramount. 
+  - Further the frontier is always moving, and thus one may not rely purely on texts or books in the field to know where the frontier is.
 - There are several viewpoints when looking at the same research problem. Not all of these may have been looked at. While doing the literature survey, you may find novel ideas.
 - Note the quote from Newton: "If i have seen further, it is by standing on the shoulders of giants"
 
-- Literature review is also a means for specifying why your work is original. Examples are:
--- New emperical work: This is new work even if it proves/substantiates something already known
--- New interpretation: Known ideas interpreted in a new light
--- New data: New data applied to old problems.
--- New context: Translating techniques from one context or solved problem to another
--- Transdisciplinary Research: Looking at areas from one field through the context of another field
--- Original Synthesis: The hard problem of a completely new (theoretical) solution to an unsovled problem
--- New field of research: Only if you have begun something completely new, like information theory or cryptography!
 
-#### Goals of a literature review:
+- Literature review is also a means for specifying why your work is original. Examples are:
+  - New emperical work: This is new work even if it proves/substantiates something already known
+  - New interpretation: Known ideas interpreted in a new light
+  - New data: New data applied to old problems.
+  - New context: Translating techniques from one context or solved problem to another
+  - Transdisciplinary Research: Looking at areas from one field through the context of another field
+  - Original Synthesis: The hard problem of a completely new (theoretical) solution to an unsovled problem
+  - New field of research: Only if you have begun something completely new, like information theory or cryptography!
+
+
+### Goals of a literature review in the context of your paper
+
 - Identify the knowledge frontier and what needs to be studied
 - Identify the context of your research domain/problem
 - Identify key words related to your area and their relationships
 - Identify the relationships between what emperical findings lead to what theoretical frameworks, or what theoretical predictions preceded what emperical findings. Important in all applied domains except say basic mathematics.
 
+
 ### What are the main tools for a literature survey
-- Main tool is google scholar with keywords!
--- Keep in mind principles, else you will be drowned in references
--- The first step is to translate the complex problem you have in terms of a few keywords.
--- You can get either too specific or too general in your first few attempts at keywords. Do a step down search, reading only the abstracts at this stage and noting on the side the references. 
--- Once you form a broad map in your head of the keyword based papers, then you can choose the specific keywords of greatest interest and go deeper into the relevant papers.
--- For the most important keywords that you have create alerts so that you can track that area of research
--- Once you have completed a literature review based on certain keyword topics, go to related keywords or any new keywords added during your previous search and restart the study. Think about all concepts, problems and disciplines related to your original problem statement.
+
+- There are three main steps to keep in mind when you carry out your literature survey. 
+  - Finding relevant literature
+  - Keeping notes as you write your survey
+  - Retrieving efficiently the literature when actually writing out your survey
+- Each of these requires different tools.
+
+
+- Main tool is google scholar with keywords
+  - Keep in mind principles, else you will be drowned in references
+  - The first step is to translate the complex problem you have in terms of a few keywords.
+  - You can get either too specific or too general in your first few attempts at keywords. Do a step down search, reading only the abstracts at this stage and noting on the side the references. 
+  - Once you form a broad map in your head of the keyword based papers, then you can choose the specific keywords of greatest interest and go deeper into the relevant papers.
+  - For the most important keywords that you have create alerts so that you can track that area of research
+  - Once you have completed a literature review based on certain keyword topics, go to related keywords or any new keywords added during your previous search and restart the study. Think about all concepts, problems and disciplines related to your original problem statement.
 
 
 - The number of times a paper is cited is an extremely good indicator of its importance pertaining to the question it seeks to answer. Note that more general applications tend to get a greater number of citations.
@@ -155,31 +178,30 @@ If you liked these notes, feel free to pass on.
 -- Be very wise with your time in knowing that your eventual goal is to find something new not to read others work and do the literature review.
 
 
-### What are the main tools for a literature survey
 
 #### Why is using tools important
 
 - When you find articles you can use technological tools to store them. 
--- This ensures you don't have to cover the same ground again at the end of a literature review when you want to find the paper talking about a particular subject. 
--- When it will be the time to write, you will not have the time to read the same article again. This could normally be 3 years later, in case of PhDs, and by this time you would have forgotten the content, unless you annotated it in the first place.
+  - This ensures you don't have to cover the same ground again at the end of a literature review when you want to find the paper talking about a particular subject. 
+  - When it will be the time to write, you will not have the time to read the same article again. This could normally be 3 years later, in case of PhDs, and by this time you would have forgotten the content, unless you annotated it in the first place.
 
 #### Notes during reading and how to take them
 
 - Takes notes when you are doing a literature survey
 
 - Notes can often cover the following information. You could use a table for this, or say excel or something like that.
--- Authors
--- Date
--- Full reference
--- Problem Addressed
--- Methodology
--- Make a note of all quotes required with page numbers
--- Make all possible personal notes about the article
---- This is crucial as you may lose the idea you had while reading the article at a later date when you begin to write.
+  - Authors
+  - Date
+  - Full reference
+  - Problem Addressed
+  - Methodology
+  - Make a note of all quotes required with page numbers
+  - Make all possible personal notes about the article
+    - This is crucial as you may lose the idea you had while reading the article at a later date when you begin to write.
 
 - Add any additional columns in case useful. For example if you need to note mathematical relationships found, hae a field for that.
 - Before beginning, make a list of all possible columns that you may want to fill out. 
--- This is difficult to modify later on, as you can't go back to papers already read to fill out new information, so make this as comprehensive as possible at the start.
+  - This is difficult to modify later on, as you can't go back to papers already read to fill out new information, so make this as comprehensive as possible at the start.
 
 - Note that any additional information stored in the reading process saves so much time in the end when doing the actual writing. Further it can lead to lines of investigation otherwise overlooked at a later date. Therefore it is well worth the investment
 
@@ -265,14 +287,14 @@ Once you have identified the Gap, you must specify the Gap.
 - Looking at a lot of abstracts improves your own abstract. When you read an abstract know what will improve in the abstract, even if it's someone else's paper. Look with a critical eye. 
 
 - Revisit MRCI framwork, as for the introduction so for the abstract. So what is the MRCI framework: All these four points should be touched upon in the abstract
--- M: Motivation: What is the gap. So what of the article
--- R: Results: Describe little bit more precisely your subject. In other words defining the methodology you are going to apply to the specific question raised before. 
--- C: Contributions: Discuss briefly your results. 
--- I: Implications: Put results in context and explain why they are important
+  - M: Motivation: What is the gap. So what of the article
+  - R: Results: Describe little bit more precisely your subject. In other words defining the methodology you are going to apply to the specific question raised before. 
+  - C: Contributions: Discuss briefly your results. 
+  - I: Implications: Put results in context and explain why they are important
 
 - Questions before MRCI framework
--- Who are the intended readers? - Depending on the journal, the abstract is going to be more or less specific. If you write for Science - abstract has to be les specifc but if you write for journal of Organic Chemistry, your abstract must be very specific, the readers of this journal already know most things about the field. 
---- Specificity means explicit result and exemplification. This is more or less specific
+  - Who are the intended readers? - Depending on the journal, the abstract is going to be more or less specific. If you write for Science - abstract has to be les specifc but if you write for journal of Organic Chemistry, your abstract must be very specific, the readers of this journal already know most things about the field. 
+    - Specificity means explicit result and exemplification. This is more or less specific
 
 Questions to be addressed in the abstract
 - Who are the intended readers and why
@@ -281,7 +303,7 @@ Questions to be addressed in the abstract
 - What do your results mean in theory?
 - What are the key benefits for the readers?
 - What remains unsolved? This depends on the journal. Should you actually address the unsolved issues or concerns upfront? 
--- It can also be termed as future developments possible through your work
+  - It can also be termed as future developments possible through your work
 
 - Answers to each of the above question in one or two lines will help build your abstract. 
 
@@ -300,10 +322,10 @@ Questions to be addressed in the abstract
 - Finish the introduction with an outline paragraph. In this paragraph, identify what you will do in each section
 - A good outline, for example may begin, "The paper is structured as follows"
 - The introduction should answer what is called the MRCI framework. This should be the leit-motif when writing the introduction and the abstract too (The abstract may be looked at as the short version of the introduction):
--- M: Motivation - what is the motivation of your topic, do you explain why there is a real gap in the literature? Also why your research question is interesting/relevant or important. 
--- R: Results - In the introduction itself it may be a good idea to put in the findings, especially if they are important. Thats the part where you answer the research question.
--- C: Contributions - How do these resutls contribute to the ongoing research or previous literature? Can be theoretical, as in a new synthesis or can be emperical where you bring up new data or highlight a new phenomena. Contributions can even be methodological, if you have designed a new method to do the same things done before in a better/complementary manner.
--- I: Implications - What are the implications for managers if you are in management, for consumers if you are in marketing and other physicists/knowledge of science if you are in the sciences and so on.
+  - M: Motivation - what is the motivation of your topic, do you explain why there is a real gap in the literature? Also why your research question is interesting/relevant or important. 
+  - R: Results - In the introduction itself it may be a good idea to put in the findings, especially if they are important. Thats the part where you answer the research question.
+  - C: Contributions - How do these resutls contribute to the ongoing research or previous literature? Can be theoretical, as in a new synthesis or can be emperical where you bring up new data or highlight a new phenomena. Contributions can even be methodological, if you have designed a new method to do the same things done before in a better/complementary manner.
+  - I: Implications - What are the implications for managers if you are in management, for consumers if you are in marketing and other physicists/knowledge of science if you are in the sciences and so on.
 
 
 
@@ -313,12 +335,12 @@ Questions to be addressed in the abstract
 - Present exactly what is needed to get to the research question
 - You have to show the limits of previous research to justify the necessity of your own work
 - Notes from those in the know:
--- Most literature reviews are at best very confusing, at worst boring!
--- While you read everything, definitely make sure you don't put down everything in the literature review.
--- Just write what is significant, highly relevant and leads to your research question
+  - Most literature reviews are at best very confusing, at worst boring!
+  - While you read everything, definitely make sure you don't put down everything in the literature review.
+  - Just write what is significant, highly relevant and leads to your research question
 - Have a purpose while writing a review: You are not just listing references, but you are conducting an argument or debate thats leading you somewhere. Know what you want your literature survey to say, break it down into paragraphs leading the reader from what they know (which is presumably more general than your own research topic) to your research question, or the gap.
 - Write the outline of the literature review (for yourself/someone else in your field) to read before you start writing the review.
--- Balance between right amount of references and being too exhaustive, not being critical enough or being too critical, not showing enough respect or showing way too much, going back to ancient civilization, or rejecting anything older than 5 year. 
+  - Balance between right amount of references and being too exhaustive, not being critical enough or being too critical, not showing enough respect or showing way too much, going back to ancient civilization, or rejecting anything older than 5 year. 
 - Keep in mind that the literature review is also a political act! By choosing whom to quote, you are choosing a side in the research community. So treat carefully and ensure you are not ommitting any key references. 
 
 
@@ -328,10 +350,10 @@ Questions to be addressed in the abstract
 - Some journals and disciplines want the methodology, maybe in appendix or at the end of the paper
 - Here you justify the way you proceeded with your research - why does it have to be done in a specific way, etc
 - The Methodology itself may have some sub-parts:
--- Research Design: For example in a case study, you may want to discuss why the field you chose is significant or how you will derive general principles from it. This is the research design
--- Data Collection: In experiments, you will have to discuss the way the data was collected. The when, how and to what purpose. The raw data itself may be shared separately from the paper or you can add a note to contact the authors for it
--- Scientific Rigor: You have to convince the reader that your measures are valid and reliable. That you have adhered to scientific rigour. 
--- Data Analysis: Explain when and how you will use the data. Know your target journal and understand what they expect from you in this matter
+  - Research Design: For example in a case study, you may want to discuss why the field you chose is significant or how you will derive general principles from it. This is the research design
+  - Data Collection: In experiments, you will have to discuss the way the data was collected. The when, how and to what purpose. The raw data itself may be shared separately from the paper or you can add a note to contact the authors for it
+  - Scientific Rigor: You have to convince the reader that your measures are valid and reliable. That you have adhered to scientific rigour. 
+  - Data Analysis: Explain when and how you will use the data. Know your target journal and understand what they expect from you in this matter
 
 ### Results and Analysis
 - Present your findings here. 
@@ -361,14 +383,14 @@ Questions to be addressed in the abstract
 ### Bibliography
 - Blbliography across journals and communities is very different. 
 - Sample:
--- [Sl No] Authors, Title, Name of Journal, Date, Page Numbers, Additional information
--- Authors [Date], Title, Name of Journal, Page Numbers, Additional information
+  - [Sl No] Authors, Title, Name of Journal, Date, Page Numbers, Additional information
+  - Authors [Date], Title, Name of Journal, Page Numbers, Additional information
 
 #### Using Zotero for Bibliography
 - To create different formats, right click on folder in Zotero and click create bibliography option
--- Here you are asked the style of quoting which defines format of citations. If you select output format as Copy to clipboard, you can paste in your editor of choice. 
+  - Here you are asked the style of quoting which defines format of citations. If you select output format as Copy to clipboard, you can paste in your editor of choice. 
 - Often you may want to export to bibtex in case you are using Latex. This is also possible in zotero. 
--- You can do this by clicking >File>Export>Format: Bibtex
+  - You can do this by clicking >File>Export>Format: Bibtex
 
 
 ## Where to begin writing
@@ -381,15 +403,7 @@ Notes from those in the know:
 - Put huge efforts and energy in these three sections - introduction, conclusion and most importantly abstract. This may be the things that people read first or even the only things that people read.
 - Know your community. Write for a specific journal or knowing the style of those who have written before you in those journals.
 
-
-
-
-
-
-
-
-
-
+--------------------------------------
 
 ## References
 - [Phd Comics!](http://phdcomics.com/)
