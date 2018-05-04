@@ -1,9 +1,12 @@
 # How to write a paper
 
-Below are useful notes for writing academic papers: Primary Reference: [How to write a scientific paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
-If you liked these notes, visit their site for more. 
+I've collected some useful notes on writing papers. Some of these may be useful to you and some others you may want to modify to your needs. My primary reference: [How to write a scientific paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
 
-## Introduction
+If you liked these notes, feel free to pass on. 
+
+--------------------------------------
+
+## Publishing - The what and why
 
 ### What is the publication process
 
@@ -11,6 +14,7 @@ If you liked these notes, visit their site for more.
 - A work may be deemed to be scientific if it satisfies fairly certain criteria which may or may not be rigorous - for example on verifiability, falsifiability.
 - A journal is atleast partially responsible for the correctness of the content in the journal. Therefore often there is a verification process which works by peer review.
 - The process itself can be sometimes long and arduous, requiring several iterations. Sucessful publishing requires a certain leel of perseverance and commitment
+
 
 ### Why is publishing important
 
@@ -27,15 +31,15 @@ If you liked these notes, visit their site for more.
 - Knowing the community - of scientists and researchers, of journals, of papers - helps you know the context of your work
 
 - The questions to consider are
--- Which academic conferences are important for your research
--- Which academic journals are important in your area
--- What are the theories and concepts important to your domain
--- Who are the influential researchers working on similar topics
+  - Which academic conferences are important for your research
+  - Which academic journals are important in your area
+  - What are the theories and concepts important to your domain 
+  - Who are the influential researchers working on similar topics
 
 - Know your research topic: 
--- Is is theoretical or emperical 
--- Is it basic or applied 
--- Is it qualitative or quantitative
+  - Is is theoretical or emperical 
+  - Is it basic or applied 
+  - Is it qualitative or quantitative
 
 - Choose a good paper/course/resource and follow links to other papers
 -- Classify into groups - essential papers and related papers
