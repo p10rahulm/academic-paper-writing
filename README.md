@@ -305,11 +305,12 @@ Questions to be addressed in the abstract
 - What remains unsolved? This depends on the journal. Should you actually address the unsolved issues or concerns upfront? 
   - It can also be termed as future developments possible through your work
 
-- Answers to each of the above question in one or two lines will help build your abstract. 
+Answers to each of the above question in one or two lines will help build your abstract. 
 
 
 
 ### Keywords
+
 - Help to reference your paper and classify it
 - What do you think people will search for so that they come to your paper
 - If you choose generic keywords, your paper will be low on the list, but if you choose too specific, no one may search for it.
@@ -317,6 +318,7 @@ Questions to be addressed in the abstract
 
 
 ### Introduction
+
 - Here you identify the research question. 
 - The first line in the introduction is very important. Work and rework it until it's perfect. Just like the title. This is the first line in the paper no? the thing that people read the most after title and maybe abstract.
 - Finish the introduction with an outline paragraph. In this paragraph, identify what you will do in each section
@@ -331,6 +333,7 @@ Questions to be addressed in the abstract
 
 
 ### Literature Review
+
 - The point is not to be exhaustive in your review of the literature
 - Present exactly what is needed to get to the research question
 - You have to show the limits of previous research to justify the necessity of your own work
@@ -345,6 +348,7 @@ Questions to be addressed in the abstract
 
 
 ### Methodology
+
 - If you have an emperical paper, you may have a methodology section
 - Here give a thorough walkthrough o your research design
 - Some journals and disciplines want the methodology, maybe in appendix or at the end of the paper
@@ -356,17 +360,20 @@ Questions to be addressed in the abstract
   - Data Analysis: Explain when and how you will use the data. Know your target journal and understand what they expect from you in this matter
 
 ### Results and Analysis
+
 - Present your findings here. 
 - If this is a theoretical paper, the analysis also goes here
 - This is the core of the paper. This is what people will cite you for. 
 
 ### Discussion
+
 - Once you have presented the results, you need to justify how it contributes to the literature you described before
 - Here you prove the relevance of your work and is often very important
 - In short, in the discussion section, you remind the reader of the research question. You summarize the analysis and findings and then explain how you contribute to previous literature
 - Sometimes the research contributions would have implications on research of others in your field in practice. If so, you should make this explicit.
 
 ### Conclusion
+
 - The form of the conclusion differs a lot, depending on the journal and discipline.
 - Sometimes this is where you show the limits of your work
 - It can address future roadmaps for research and how you intend to address them in future research
@@ -375,12 +382,14 @@ Questions to be addressed in the abstract
 - Look for what is surprising or original or unexpected to the community.
 - Highlight what is counter-intuitive or original about them and how they bring new light to literature.
 
-### References
+### References Section
+
 - Table of Tables, Figures and Graphs: Some journals need this at the end, and some in a separate file, and others in the text itself, in the introduction. Remember to read the journal's guide to authors. 
 - Include all the bibliography
 - Include appendix and any sections that didn't make the cut in the main paper but are crucial to the paper itself
 
 ### Bibliography
+
 - Blbliography across journals and communities is very different. 
 - Sample:
   - [Sl No] Authors, Title, Name of Journal, Date, Page Numbers, Additional information
@@ -392,6 +401,21 @@ Questions to be addressed in the abstract
 - Often you may want to export to bibtex in case you are using Latex. This is also possible in zotero. 
   - You can do this by clicking >File>Export>Format: Bibtex
 
+## Cover Letter
+
+The cover letter is something that goes with the submission of a paper to a journal. It is a letter to the editor which describes what you did in maximum of one page. 
+- Objective is to convince the editor of your papers relevance to their journal. 
+- Advice from [Springer](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574) for the cover letter
+- Use templates for the cover letter - several can be found from a simple google search
+
+
+### Writing follow up letters to reviewers to answer comments
+- The same guidelines as before apply here. e respectful, polite and formal.
+- Do not dismiss recommendations or critiques, be mindful of them and accept them when they are constructive, especially if the reviewer is known to be a senior member of your community.
+- At the same time, you don't immediately have to accede to everything. In case you think that some of the observations of the reviewers is because they have not understood the paper, do clarify your viewpoint. 
+  - For example "Thank you for your observations with regard to XY that Z should also be included. While agreeing to most of your views, we also want to bring to your notice ABC which may address some of your concerns. Specifically, ---some explanation here---. Do let us know if this satisfies your question. In case you still have more questions or want us to include Z, we would be happy to send over a revised draft."
+
+---------------------------------------
 
 ## Where to begin writing
 The writing of the paper need not be linear in terms of the building blocks described previously
@@ -403,6 +427,97 @@ Notes from those in the know:
 - Put huge efforts and energy in these three sections - introduction, conclusion and most importantly abstract. This may be the things that people read first or even the only things that people read.
 - Know your community. Write for a specific journal or knowing the style of those who have written before you in those journals.
 
+
+## Create your own review
+
+### Review Yourself
+
+Basic Checklist as follows:
+- Did you pass the so what test?
+- Does the problem statement remain the same throughout the paper?
+- Is the title of the paper coherent?
+- Are the Keywords adequate?
+- Is the content of the research coherent with the aims and scopes of the journal you are targeting?
+
+#### Does your paper tell a story?
+
+The article is going to eventually be read by a lot of people (hopefully), therefore it is imperative to keep them interested. Think about the kind of articles you have read, one common thread may be that they keep you engaged.
+- Some good references to read atleast once in your life if you have written, are writing or are going to write academic papers are [How to write consistently boring scientific literature](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0030-1299.2007.15674.x) and [Being Scheherazade: The importance of storytelling in academic writing](https://aom.org/uploadedFiles/Publications/AMJ/FTE%20June%202013.pdf)
+- The whole paper has to say the same narrative. This is why the research question is very important. It is the thread that the whole paper follows
+- Further imagine people in your field have spent a whole life in this field, so they have heard most things that are there to be said. If you are not original, then you are going to be boring to read for them. Especially true of long winded literature surveys
+- One way to keep interest is to discuss the implication of your work. This keeps readers interested because they think there's something in it for them.
+- Illustrations are excellent ways to keep interest. Note that Reading is only one form of communication. Verbal and Visual are more effective for some people. Since journals are not the best media to disseminate verbal and visual information, the best you can do is to use illustrations diagrams and drawings in your work
+
+
+
+### Get a friend/mentor/guide to review your work
+
+Eventually, when you submit your article to the journal, the people who are going to read the article are:
+- Chief Editor
+- Specialized Editors
+- Anonymous reviewers
+- Finally the community
+
+Before these people read the article, it is a good idea to ask someone you know to to read the paper.
+- Detect mistakes
+- Give you ideas on improvement
+- Improve the language for clarity
+
+Ask the person who is going to read the article the following points:
+- Is the so what of the article clear?
+- Is the reasoning understandable? Does it need more data/ calculation steps to show make it understandable?
+- Is the structure clear and flow of the article clear?
+
+This person is going to give you the first set of tips before the submission, so make sure you include this step in paper writing!
+
+
+
+## If your paper is rejected
+
+First things first, don't read this section after your paper is rejected. Read it now while writing the paper so that you know you've kept with the rules and followed best practices. Reference: [Manuscript Rejection - Causes and Remedies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035881/pdf/JYPharm-2-3.pdf) and [Reasons I rejected your article](https://www.elsevier.com/connect/8-reasons-i-rejected-your-article)
+
+Most often the reasons for rejection could be:
+- It doesn't fall in the aims and scope of the journal
+- It is not a full study, or it is a small extension to a previous study, often from the same group.
+- It is boring or incomprehensable. Lack of interpreteability is a major concern.
+- Inappropriate or incomplete statistics. Wrongness of certain results. Technical rejects based on lacking key elements, or incomplete references. 
+- Inappropriateness for the journal
+- Inappropriate packaging - difference between title/abstract and results/conclusions
+- Journals popularity and priorities in terms of better articles
+
+### Avoiding Technical Rejects - the smaller details could be the largest dealbreakers
+
+Technical rejects are the easiest to avoid and must be taken care of before submitting. Read and re-read the journal guidelines for submissions.
+
+- Improper language, spelling mistakes and typos are a no-go.
+- Language evaluation by an independent checker may be appropriate. Improper language may indicate that the authors are not up the journals standards
+- Guidelines
+  - There is no long sentence
+  - You are always writing in active voice
+  - No complicated words, only simple language
+  - Straight to the point!
+- Get proof-readers. It could be your friends for whom you return the favour. Further if English is not your native language, get a professional copy-editor - do this only when final version of paper is available. Note this could be costly. Do it only when you are sure of your quality of technical work!
+- In case of external proof readers note that they may take time and therefore this time has to be accounted for during the submission process keeping in mind the deadlines
+
+- Avoid the simple errors
+  - Forgetting the papers pagination. Frustrates reviewers as they can't refer to a particular page during comments!
+  - Wrong bibliography styles are a no-go. Make sure you follow journal's guidelines on this. Follow the rules as well as quoting style.
+  - Download templates or writing rules. In case of Latex you may have a style document which you can include in your file.
+  - Word limits are there to be followed. Assume the paper is going to be included in the journal as-is. Discard everything unnecessary. Put everything marginally 'boring' in the appendix.
+  - Adequate organization of the paper is very important. Make sure you have clear sections and subsections. Make everything flow. This is where the proofreading becomes important. Outlines in the introduction help as well as short introduction and conclusion paragraphs in especially the longer sections
+- Verify that the titles, figures and tables are correct
+  - They must correspond with what is written in the paragraph. Note that whenever there is an illustration or a figure the eyes of the reader is immediately going to go there.
+  - Ensure that the figures and illustrations are properly labelled. The reader is going to attempt to understand the figure on their own before they read your explanation. It must be self explanatory to the extend possible and furthermore explain the text of the paper itself.
+
+Note that these are only general guidelines. For various disciplines like medicine or mathematics, there may be various other requirements to be followed. Add them to your checklist.
+  
+  
+  
+
+In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to.
+
+
+
 --------------------------------------
 
 ## References
@@ -411,5 +526,9 @@ Notes from those in the know:
 - [American Management Journal - BEING SCHEHERAZADE: THE IMPORTANCE OF STORYTELLING IN ACADEMIC WRITING](https://aom.org/uploadedFiles/Publications/AMJ/FTE%20June%202013.pdf)
 - [Clinical Chemistry Guide to Scientific Writing](https://www.aacc.org/publications/clinical-chemistry/clinical-chemistry%C2%A0guide-to-scientific-writing)
 - [Academic Writing and Publishing - Hartley](http://inf.ucv.ro/~mirel/courses/MIAM114/docs/academicwriting.pdf)
+- [How to write consistently boring scientific literature](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0030-1299.2007.15674.x)
+- [APA Guide for reviewers and authors](http://www.apa.org/pubs/journals/)
+- [Fussy Professor Starbuck's Cookbook of Handy-Dandy Prescriptions for Ambitious Academic Authors](http://pages.stern.nyu.edu/~wstarbuc/Writing/Fussy.htm)
+- 
 
 
