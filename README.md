@@ -209,7 +209,7 @@ If you liked these notes, feel free to pass on.
 - Zotero is often used to store articles of interest in research.
 - Mendeley is also sometimes used
 
-
+--------------------------------------
 
 
 ### What is the gap
@@ -226,6 +226,7 @@ Once you have identified the Gap, you must specify the Gap.
 - The research question has to be extremely clear to the reader. Don't hide it behind complex prose
 - In essence it is the answer to the question - what is your article about. It is the most important part of the paper - highlight it.
 
+--------------------------------------
 
 ## Bringing it all together: Research Design
 - Type of results provided in the literature review have to raise comprehension about or around the research question you raised at the beginning of the paper. Everything else is superfluous.
@@ -243,27 +244,8 @@ Once you have identified the Gap, you must specify the Gap.
 - Research Novelty - Identification and specification of gap
 - Writing Quality - internal and external coherence of all blocks
 
-
-## Structure of an academic paper
-- Title
-- Abstract
-- Introduction
-- Literature Review
-- Methodology
-- Results and Analysis
-- Discussion
-- Conclusion
-
-### Title
-- Simple short and clear
-- The best papers have the most understandable titles: don't couch your work in too much jargon
-
-### Abstract
-- Synthesizes the main points of the paper
-- The most important part of the paper
-- Once you read the abstract the reader has to know exactly what the paper is about
-
-### The Abstract in detail
+--------------------------------------
+## The Abstract
 
 #### Why the abstract is important
 - Quite often people may just read the Title and Abstract of the paper. These are available in indices and introductory pages of the journal, bofore the full text of the article, especially in the online context.
@@ -307,6 +289,29 @@ Questions to be addressed in the abstract
 
 Answers to each of the above question in one or two lines will help build your abstract. 
 
+
+
+--------------------------------------
+
+## Structure of an academic paper
+- Title
+- Abstract
+- Introduction
+- Literature Review
+- Methodology
+- Results and Analysis
+- Discussion
+- Conclusion
+
+### Title
+- Simple short and clear
+- The best papers have the most understandable titles: don't couch your work in too much jargon
+
+### Abstract
+- Synthesizes the main points of the paper
+- The most important part of the paper
+- Once you read the abstract the reader has to know exactly what the paper is about.
+- The abstract is covered in detail in a previous section
 
 
 ### Keywords
@@ -401,7 +406,11 @@ Answers to each of the above question in one or two lines will help build your a
 - Often you may want to export to bibtex in case you are using Latex. This is also possible in zotero. 
   - You can do this by clicking >File>Export>Format: Bibtex
 
-## Cover Letter
+--------------------------------------
+
+## Letters to the editor
+
+### Cover Letter
 
 The cover letter is something that goes with the submission of a paper to a journal. It is a letter to the editor which describes what you did in maximum of one page. 
 - Objective is to convince the editor of your papers relevance to their journal. 
@@ -411,7 +420,8 @@ The cover letter is something that goes with the submission of a paper to a jour
 - The cover letter is useful to tell the editor what you have been doing and why it's relevant apart from what is contained in the paper itself. 
 - Remember the editors care about their own readership so showing that your work is important, is important!
 
-### Writing follow up letters to reviewers to answer comments
+### Follow up letters
+
 - The same guidelines as before apply here. e respectful, polite and formal.
 - Do not dismiss recommendations or critiques, be mindful of them and accept them when they are constructive, especially if the reviewer is known to be a senior member of your community.
 - At the same time, you don't immediately have to accede to everything. In case you think that some of the observations of the reviewers is because they have not understood the paper, do clarify your viewpoint. 
@@ -419,7 +429,7 @@ The cover letter is something that goes with the submission of a paper to a jour
 
 ---------------------------------------
 
-## Where to begin writing
+## The process of writing
 The writing of the paper need not be linear in terms of the building blocks described previously
 - Most times this is a bad idea! You are often writing the paper (in panic mode!) a few hours before that colloquium you really want to go to.
 - You are often putting most of the best efforts in the analysis, because thats often seen as what you are contributing to - that is your research. Again, may not be best idea if you lose sight of the research question and research design. 
@@ -429,6 +439,8 @@ Notes from those in the know:
 - Put huge efforts and energy in these three sections - introduction, conclusion and most importantly abstract. This may be the things that people read first or even the only things that people read.
 - Know your community. Write for a specific journal or knowing the style of those who have written before you in those journals.
 
+
+--------------------------------------
 
 ## Create your own review
 
@@ -473,18 +485,19 @@ Ask the person who is going to read the article the following points:
 This person is going to give you the first set of tips before the submission, so make sure you include this step in paper writing!
 
 
+--------------------------------------
 
 ## Rejections
 
-First things first, don't read this section after your paper is rejected. Read it now while writing the paper so that you know you've kept with the rules and followed best practices. Reference: [Manuscript Rejection - Causes and Remedies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035881/pdf/JYPharm-2-3.pdf) and [Reasons I rejected your article](https://www.elsevier.com/connect/8-reasons-i-rejected-your-article)
+First things first, don't read this section after your paper is rejected. Read it now while writing the paper so that you know you've kept with the rules and followed best practices. Reference: [Rejection - Causes and Remedies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035881/pdf/JYPharm-2-3.pdf) and [Reasons for rejection](https://www.elsevier.com/connect/8-reasons-i-rejected-your-article)
 
-What you should do:
+### What you should do
 - The paper has to be correct. This is assessed by the scientific editor/other reviewers.
 - The paper has to contain something new - some novel idea. But there must be something in the paper that has never been published before - unless it is a review paper. 
 - Choose a question that is open and interesting to write your paper on.
 - Follow the style guidelines. You should be able to get template files which are pre-written files which have parts which you can fill out. 
 
-What you shoudn't do:
+### What you shoudn't do:
 - It doesn't fall in the aims and scope of the journal
 - It is not a full study, or it is a small extension to a previous study, often from the same group.
 - It is boring or incomprehensable. Lack of interpreteability is a major concern.
@@ -519,8 +532,15 @@ Technical rejects are the easiest to avoid and must be taken care of before subm
   - They must correspond with what is written in the paragraph. Note that whenever there is an illustration or a figure the eyes of the reader is immediately going to go there.
   - Ensure that the figures and illustrations are properly labelled. The reader is going to attempt to understand the figure on their own before they read your explanation. It must be self explanatory to the extend possible and furthermore explain the text of the paper itself.
 
+  
 Note that these are only general guidelines. For various disciplines like medicine or mathematics, there may be various other requirements to be followed. Add them to your checklist.
   
+### How to deal with rejection from journals?
+
+- Expect to be rejected, because if you are consistently not rejected, then you are not applying to journals that are hard enough to apply to
+- Let's say you have pretty interesting results, then instead of being afraid of a reject, do a "hi" to an awesome journal and see their response. 	
+- Most likely you get rejected, and then you can send over your work to a more technical journal (with say a high impact factor), and then you get rejected again!
+- Then you go to a more specialized journal, and hopefully you get published in a journal that people read.
 
 In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to. If it is accepted, congratulations! You have just published a paper in a journal. Typically for the paper to get printed may take two or three months, but a web version should be available within a week or two. 
 
@@ -588,11 +608,6 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
 - But say you have something very technical that is not very appealing, but it's something that needs to be done, then there are journals that handle that as well. 
 - The general readership journals tend to be those that focus on cool interdisciplinary work as opposed to something very technical. Thats something you will become quite familiar with as you progress in the field. 
 
-### How to deal with rejection from journals?
-- Expect to be rejected, because if you are consistently not rejected, then you are not applying to journals that are hard enough to apply to
-- Let's say you have pretty interesting results, then instead of being afraid of a reject, do a "hi" to an awesome journal and see their response. 	
-- Most likely you get rejected, and then you can send over your work to a more technical journal (with say a high impact factor), and then you get rejected again!
-- Then you go to a more specialized journal, and hopefully you get published in a journal that people read.
 
 ### Rules of submission to a journal
 - Never submit to more than one journal at a time! The reviewers behind many of the journals are likely the same and none of them like that. 
