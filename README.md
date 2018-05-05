@@ -407,7 +407,9 @@ The cover letter is something that goes with the submission of a paper to a jour
 - Objective is to convince the editor of your papers relevance to their journal. 
 - Advice from [Springer](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574) for the cover letter
 - Use templates for the cover letter - several can be found from a simple google search
-
+- Typically the editor sees tonnes of papers from all kinds of different fields so it's important to give them context on why your work is important - Relevant and Timely.
+- The cover letter is useful to tell the editor what you have been doing and why it's relevant apart from what is contained in the paper itself. 
+- Remember the editors care about their own readership so showing that your work is important, is important!
 
 ### Writing follow up letters to reviewers to answer comments
 - The same guidelines as before apply here. e respectful, polite and formal.
@@ -496,6 +498,7 @@ Technical rejects are the easiest to avoid and must be taken care of before subm
   - You are always writing in active voice
   - No complicated words, only simple language
   - Straight to the point!
+  
 - Get proof-readers. It could be your friends for whom you return the favour. Further if English is not your native language, get a professional copy-editor - do this only when final version of paper is available. Note this could be costly. Do it only when you are sure of your quality of technical work!
 - In case of external proof readers note that they may take time and therefore this time has to be accounted for during the submission process keeping in mind the deadlines
 
@@ -505,7 +508,8 @@ Technical rejects are the easiest to avoid and must be taken care of before subm
   - Download templates or writing rules. In case of Latex you may have a style document which you can include in your file.
   - Word limits are there to be followed. Assume the paper is going to be included in the journal as-is. Discard everything unnecessary. Put everything marginally 'boring' in the appendix.
   - Adequate organization of the paper is very important. Make sure you have clear sections and subsections. Make everything flow. This is where the proofreading becomes important. Outlines in the introduction help as well as short introduction and conclusion paragraphs in especially the longer sections
-- Verify that the titles, figures and tables are correct
+
+  - Verify that the titles, figures and tables are correct
   - They must correspond with what is written in the paragraph. Note that whenever there is an illustration or a figure the eyes of the reader is immediately going to go there.
   - Ensure that the figures and illustrations are properly labelled. The reader is going to attempt to understand the figure on their own before they read your explanation. It must be self explanatory to the extend possible and furthermore explain the text of the paper itself.
 
@@ -515,7 +519,8 @@ Note that these are only general guidelines. For various disciplines like medici
 In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to.
 
 
-## Summing it up
+
+
 
 
 
@@ -542,3 +547,68 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
   - [February 2012: Yan (Anthea) Zhang, Jason D. Shaw. Publishing in AMJ Part 5: Crafting the Methods and Results](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf)
   - [April 2012: Marta Geletkanycz, Bennett J. Tepper. Publishing in AMJ Part 6: Discussing the Implications](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Implications.pdf)
   - [June 2012: Pratima (Tima) Bansal, Kevin Corley. Publishing in AMJ Part 7: What's Different About Qualitative Research?](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Qualitative.pdf)
+
+
+
+## Appendix
+
+### First Authorship
+
+#### What does being a first author entail?
+- Most first authors are also corresponding authors. That means all the communication with the journal editors, handling reviews emails, submissions, dealing with publication fees, publication formatting goes through you.
+- Everyone who wishes to ask questions after the paper is published or get data on the paper, that goes through the first author. 
+- Most first authors are automatically assigned the corresponding author and that entails all above tasks
+
+#### How to interact with peers when you are the first author?
+- You are expected assemble the full draft. 
+- It's your responsibility to ensure you get all the pieces from everyone for example if different people are assigned different sections and so on.
+- In practice it's implicit that you have the last word on the paper. This comes with the responsibility of having to integrate different parts of paper, moderate all authors through the paper and so on. But this could differ depending on whether it's your first paper or your 10th paper.
+- Typically the first author creates a full draft and sends it for a round of comments. Once the comments are obtained, the first author is responsible for making the edits and then they send around again until everyone is happy.
+
+
+### Role played by peers in publication process
+
+- Typically once you have a full draft you send it to your advisor and other co-authors. 
+- Assemble the full draft on your own when possible. This ensures that the paper is created to your vision, even if the first draft is bad 
+- Note that even for the best of researchers, the first draft is always bad. Therefore be prepared for comments and edits
+- Expect a number of iterations between first draft and something submittable, both in text as well as figures
+- The entire process can take a while. Few weeks to a couple of months is standard
+- There may be cases where you can present the research at conferences even as you are assembling the research for publishing in a journal
+
+### How to select the journals in which to publish?
+- When you get familiar with the field, you keep getting back to the same journals that come up in discussions and that you know people read. 
+- You become familiar if you are going to tackle a certain topic which journals like pushing which viewpoints within that topic/domain. 
+- There's also very general readership journals that have a really wide audience. To really appeal to those you have to make a case that your research will interest people beyond your own field.
+- But say you have something very technical that is not very appealing, but it's something that needs to be done, then there are journals that handle that as well. 
+- The general readership journals tend to be those that focus on cool interdisciplinary work as opposed to something very technical. Thats something you will become quite familiar with as you progress in the field. 
+
+### How to deal with rejection from journals?
+- Expect to be rejected, because if you are consistently not rejected, then you are not applying to journals that are hard enough to apply to
+- Let's say you have pretty interesting results, then instead of being afraid of a reject, do a "hi" to an awesome journal and see their response. 	
+- Most likely you get rejected, and then you can send over your work to a more technical journal (with say a high impact factor), and then you get rejected again!
+- Then you go to a more specialized journal, and hopefully you get published in a journal that people read.
+
+### Rules of submission to a journal
+- Never submit to more than one journal at a time! The reviewers behind many of the journals are likely the same and none of them like that. 
+
+#### What happens to your paper within the journal after you submit?
+- Typically once you submit a version that you deem acceptible along with the cover letter, it lands at the desk (email) of the chief editor. The chief editor then deems whether it falls in the ambit of the journal or not.
+- If it is, it gets sent to the associate editor who specializes in that field. This person judges whether the article is interesting enough and whether it falls under the quality guidelines of the journal. 
+- If it does, then it gets sent to reviewers, who are typically specialised in that field, who send back comments to the associate editor.
+- With these comments, the associate editor decides whether to straight away reject the paper or send it back to the corresponding author for comments.
+- Depending on the journal, most often the above process takes a few weeks/months. 
+- If the paper is not straightaway rejected, then most often you may have to make pretty major revisions and rarely a few minor revisions. 
+- The process of making revisions can take from your end again a few weeks or months. Don't get disheartened! Most research is like this. The iterativeness and thoroughness of the process is what ensures good science. 
+- Once submitted again, the associate editor might send it again to the reviewers and ensure that they are happy, or if you are thorough enough in pointing out that you have done enough to address the concerns of the reviewers, accept the revision for use in the journal.
+- The way to ensure thoroughness in the revision process is a good cover letter. The cover letter should also have a short attachment of a page or so pointing out the revisions and the work that you have been carrying out with respect to the revisions. 
+- You could take the review and break them down point by point. 
+- Then highlight each comment/question of the reviewer and below that write out 
+  - Why you agree with the reviewer
+  - What you have done in terms of additional work to address the concerns of reviewer
+  - What you have done in terms of revision made to the manuscript (including page number/line number).
+- Sometimes in rare cases where a change in methodology is suggested that you don't agree with, you could add a rejoinder saying you appreciate the concerns of the reviewer, but you believe that your method is best because of XYX reasons. Citing other papers to agree with your viewpoint is important in such cases of disagreement.
+- Always point out that you appreciate the work the reviewer has put in into reviewing your work.
+- Always show that you have taken the work of the reviewers very seriously and have made changes to your text accordingly. This is shown in the form of the cover letter. 
+
+
+
