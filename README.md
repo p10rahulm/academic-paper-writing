@@ -474,16 +474,21 @@ This person is going to give you the first set of tips before the submission, so
 
 
 
-## If your paper is rejected
+## Rejections
 
 First things first, don't read this section after your paper is rejected. Read it now while writing the paper so that you know you've kept with the rules and followed best practices. Reference: [Manuscript Rejection - Causes and Remedies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3035881/pdf/JYPharm-2-3.pdf) and [Reasons I rejected your article](https://www.elsevier.com/connect/8-reasons-i-rejected-your-article)
 
-Most often the reasons for rejection could be:
+What you should do:
+- The paper has to be correct. This is assessed by the scientific editor/other reviewers.
+- The paper has to contain something new - some novel idea. But there must be something in the paper that has never been published before - unless it is a review paper. 
+- Choose a question that is open and interesting to write your paper on.
+- Follow the style guidelines. You should be able to get template files which are pre-written files which have parts which you can fill out. 
+
+What you shoudn't do:
 - It doesn't fall in the aims and scope of the journal
 - It is not a full study, or it is a small extension to a previous study, often from the same group.
 - It is boring or incomprehensable. Lack of interpreteability is a major concern.
-- Inappropriate or incomplete statistics. Wrongness of certain results. Technical rejects based on lacking key elements, or incomplete references. 
-- Inappropriateness for the journal
+- Technical rejects based on lacking key elements, or incomplete references. 
 - Inappropriate packaging - difference between title/abstract and results/conclusions
 - Journals popularity and priorities in terms of better articles
 
@@ -492,6 +497,7 @@ Most often the reasons for rejection could be:
 Technical rejects are the easiest to avoid and must be taken care of before submitting. Read and re-read the journal guidelines for submissions.
 
 - Improper language, spelling mistakes and typos are a no-go.
+- Figures are another important part of the submission. They have to be correct and immediately legible. 
 - Language evaluation by an independent checker may be appropriate. Improper language may indicate that the authors are not up the journals standards
 - Guidelines
   - There is no long sentence
@@ -516,7 +522,7 @@ Technical rejects are the easiest to avoid and must be taken care of before subm
 Note that these are only general guidelines. For various disciplines like medicine or mathematics, there may be various other requirements to be followed. Add them to your checklist.
   
 
-In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to.
+In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to. If it is accepted, congratulations! You have just published a paper in a journal. Typically for the paper to get printed may take two or three months, but a web version should be available within a week or two. 
 
 
 
@@ -592,10 +598,16 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
 - Never submit to more than one journal at a time! The reviewers behind many of the journals are likely the same and none of them like that. 
 
 #### What happens to your paper within the journal after you submit?
-- Typically once you submit a version that you deem acceptible along with the cover letter, it lands at the desk (email) of the chief editor. The chief editor then deems whether it falls in the ambit of the journal or not.
-- If it is, it gets sent to the associate editor who specializes in that field. This person judges whether the article is interesting enough and whether it falls under the quality guidelines of the journal. 
-- If it does, then it gets sent to reviewers, who are typically specialised in that field, who send back comments to the associate editor.
-- With these comments, the associate editor decides whether to straight away reject the paper or send it back to the corresponding author for comments.
+- Typically once you submit a version that you deem acceptible along with the cover letter, it lands at the desk (email) of the chief/principal editor. 
+- The chief editor does a first check as to whether the paper falls into the scope of the journal. 
+- If it is, it gets sent to the associate editor who specializes in that field. The associate editor reads the paper in detail and makes a first assessment as to whether the level of the paper is sufficient for the journal.
+  - If the associate editor judges it to be below the level, they may reject it right away in what is called an editorial rejection 
+  - The associate editor also judges whether the article is interesting enough and whether it meets basic quality guidelines of the journal. 
+  
+- If it meets basic criteria, the review process is started. 
+- The review process begins with selecting the reviewers, The manuscript then it gets sent to reviewers, who are typically specialised in that field
+- The reviewers then send back comments/questions as a report to the associate editor.
+- With these comments, the associate editor decides whether to reject the paper or send it back to the corresponding author for comments. Very rarely the paper is accepted right away. 
 - Depending on the journal, most often the above process takes a few weeks/months. 
 - If the paper is not straightaway rejected, then most often you may have to make pretty major revisions and rarely a few minor revisions. 
 - The process of making revisions can take from your end again a few weeks or months. Don't get disheartened! Most research is like this. The iterativeness and thoroughness of the process is what ensures good science. 
@@ -610,5 +622,9 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
 - Always point out that you appreciate the work the reviewer has put in into reviewing your work.
 - Always show that you have taken the work of the reviewers very seriously and have made changes to your text accordingly. This is shown in the form of the cover letter. 
 
-
+### What is open publication and should you go for it?
+Traditionally journals used to be funded by libraries and subscriptions of institutions. So you subscribe to the journal and when you subscribe you have access to the articles. There is a new trend these days of open publications being paid for by the writer and not the reader. 
+- It appeared around 10 years ago and is gaining ground. The editorial process in open access journal is still as rigorous in the good journals. 
+- But beware, many many journals and conferences are fly-by-night and exist only to make money. [Predatory and Fake Scientific Journals...A Review](http://scindeks-clanci.ceon.rs/data/pdf/0354-8724/2014/0354-87241403069L.pdf)
+- 
 
