@@ -511,10 +511,12 @@ Technical rejects are the easiest to avoid and must be taken care of before subm
 
 Note that these are only general guidelines. For various disciplines like medicine or mathematics, there may be various other requirements to be followed. Add them to your checklist.
   
-  
-  
 
 In spite of following all the guidelines, if your paper is rejected, don't be disappointed. There are still hundreds of other journals you can submit it to.
+
+
+## Summing it up
+
 
 
 
@@ -529,6 +531,14 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
 - [How to write consistently boring scientific literature](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0030-1299.2007.15674.x)
 - [APA Guide for reviewers and authors](http://www.apa.org/pubs/journals/)
 - [Fussy Professor Starbuck's Cookbook of Handy-Dandy Prescriptions for Ambitious Academic Authors](http://pages.stern.nyu.edu/~wstarbuc/Writing/Fussy.htm)
-- 
+- [How to become a more productive writer](http://www.yudkin.com/productive.htm)
+- [How to Win Acceptances by Psychology Journals: 21 Tips for Better Writing](https://www.csustan.edu/nelson/how-win-acceptances-psychology-journals-21-tips-better-writing)
 
-
+- Set of articles in AMJ on how to write articles
+  - [June 2011: Jason A. Colquitt, Gerard George. Publishing in AMJ Part 1: Topic Choice](https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf)
+  - [August 2011: Joyce E. Bono, Gerry McNamara. Publishing in AMJ Part 2: Research Design](https://aom.org/uploadedFiles/Publications/AMJ/FTE-ResDesign.pdf)
+  - [October 2011: Adam M. Grant, Timothy G. Pollock. Publishing in AMJ Part 3: Setting the Hook](https://aom.org/uploadedFiles/Publications/AMJ/FTE-SettingTheHook.pdf)
+  - [December 2011: Raymond T. Sparrowe, Kyle J. Mayer. Publishing in AMJ Part 4: Grounding Hypotheses](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Grounding.pdf)
+  - [February 2012: Yan (Anthea) Zhang, Jason D. Shaw. Publishing in AMJ Part 5: Crafting the Methods and Results](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Crafting.pdf)
+  - [April 2012: Marta Geletkanycz, Bennett J. Tepper. Publishing in AMJ Part 6: Discussing the Implications](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Implications.pdf)
+  - [June 2012: Pratima (Tima) Bansal, Kevin Corley. Publishing in AMJ Part 7: What's Different About Qualitative Research?](https://aom.org/uploadedFiles/Publications/AMJ/FTE-Qualitative.pdf)
