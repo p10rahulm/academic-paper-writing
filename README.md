@@ -6,6 +6,18 @@ If you liked these notes, feel free to pass on.
 
 --------------------------------------
 
+## Contents
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+    
+
+
+--------------------------------------
+
 ## Publishing - The what and why
 
 ### What is the publication process
