@@ -840,4 +840,5 @@ Traditionally journals used to be funded by libraries and subscriptions of insti
 - It appeared around 10 years ago and is gaining ground. The editorial process in open access journal is still as rigorous in the good journals. 
 - But many journals and conferences are fly-by-night and exist only to make money. Further these are probably the ones advertising heavily and sending personalized mails to you to publish in them [Predatory and Fake Scientific Journals...A Review](http://scindeks-clanci.ceon.rs/data/pdf/0354-8724/2014/0354-87241403069L.pdf)
 - Therefore determine what is not open access. Here's a good [criteria list](http://ssau.ru/files/science/crpd/CriteriaBillPublishers2015.pdf) to determine such publisers, and here's a known [offenders list](https://beallslist.weebly.com/standalone-journals.html)
+
 - Same is the case with conferences as well. Here's a good set of [questions to ask yourself](https://thinkcheckattend.org/) before you decide to support or attend one.
