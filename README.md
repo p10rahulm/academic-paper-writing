@@ -7,14 +7,17 @@ If you liked these notes, feel free to pass on.
 --------------------------------------
 
 ## Contents
-1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
-    
-
+1. The nature of research
+    1. Science and the need for rigour
+	2. Why is publishing important
+    3. What are journals
+        1. Open Access vs Traditional Journals
+	4. IP and Ethical guidelines
+        1. Intellectual Property rights of the journals
+		2. Ethical guidelines in the research community
+2. What constitutes an Article or an Academic Paper
+	1. Science and the need for rigour
+3. How to get published
 
 --------------------------------------
 
@@ -59,6 +62,12 @@ If you liked these notes, feel free to pass on.
   - Classify domains also similarly, essential and related
 
 - Making a recent 10 year bibliography on your topic is a good place to start
+
+###Exercise
+1) Know your editor
+Step 1: Go to the website of the journal you have selected as compatible with your paper (see sections "Know Your Community" and "Know Your Paper"). Look at the editorial board and identify the editor who would likely be in charge of finding reviewers for your paper.
+
+Step 2: Based on your review of the editorial board and the likely editor, make a list of relevant references that you should include in your submission to this academic journal.
 
 --------------------------------------
 
