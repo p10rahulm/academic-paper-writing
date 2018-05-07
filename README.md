@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 The primary purpose of these set of notes I've compiled is towards my own journey in Science. Researching is difficult. It is even more difficult outside of an institutional support system. But one must find a way to cross barriers.
 
@@ -48,43 +48,43 @@ If you liked these notes, feel free to pass on.
 4. References
 
 --------------------------------------
-# 1. The nature of research
-    1. Science and the need for rigour
-	2. The nature of gap
-    3. Why is publishing important
-    4. What are journals
-        1. Open Access vs Traditional Journals
-    5. IP and Ethical guidelines
-        1. Intellectual Property rights of the journals
-        2. Ethical guidelines in the research community
-# 2. What constitutes an Article or an Academic Paper
-    1. The Title
-    2. Abstract
-    3. Keywords
-	4. Introduction
-	5. Literature Review
-	6. Methodology
-	7. Results and Analysis
-	8. Discussion
-	9. Conclusion
-	10. Bibliography
-# 3. How to get published
-    1. Rejection as a right of passage for an academic
-    2. Designing your research
-    3. So What?
-	4. How not to lose track
-        1. Knowing the end goal
-        2. Creating a path
-        3. Using tools
-    5. Tools to use while working
-    6. Getting the basics right
-    7. Getting the process right
-	    1. Selecting a journal
-	    2. Selecting peers to publish with
-	    3. First Authorship
-	    4. Working with peers to get to a better paper
-        5. Responding to reviewer commentary
-# 4. References
+## 1. The nature of research
+### 1.1. Science and the need for rigour
+### 1.2. The nature of gap
+### 1.3. Why is publishing important
+### 1.4. What are journals
+#### 1.4.1. Open Access vs Traditional Journals
+### 1.5. IP and Ethical guidelines
+#### 1.5.1. Intellectual Property rights of the journals
+#### 1.5.2. Ethical guidelines in the research community
+## 2. What constitutes an Article or an Academic Paper
+### 2.1. The Title
+### 2.2. Abstract
+### 2.3. Keywords
+### 2.4. Introduction
+### 2.5. Literature Review
+### 2.6. Methodology
+### 2.7. Results and Analysis
+### 2.8. Discussion
+### 2.9. Conclusion
+### 2.10. Bibliography
+## 3. How to get published
+### 3.1. Rejection as a right of passage for an academic
+### 3.2. Designing your research
+### 3.3. So What?
+### 3.4. How not to lose track
+#### 3.4.1. Knowing the end goal
+#### 3.4.2. Creating a path
+#### 3.4.3. Using tools
+### 3.5. Tools to use while working
+### 3.6. Getting the basics right
+### 3.7. Getting the process right
+#### 3.7.1. Selecting a journal
+#### 3.7.2. Selecting peers to publish with
+#### 3.7.3. First Authorship
+#### 3.7.4. Working with peers to get to a better paper
+#### 3.7.5. Responding to reviewer commentary
+## 4. References
 
 ======================================
 
