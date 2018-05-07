@@ -11,11 +11,12 @@ If you liked these notes, feel free to pass on.
 ## Contents
 1. The nature of research
     1. Science and the need for rigour
-	2. The nature of gap
-    3. Why is publishing important
-    4. What are journals
+	2. The nature of The Gap
+	3. The Research Community
+    4. Why is publishing important
+    5. What are journals
         1. Open Access vs Traditional Journals
-    5. IP and Ethical guidelines
+    6. IP and Ethical guidelines
         1. Intellectual Property rights of the journals
         2. Ethical guidelines in the research community
 2. What constitutes an Article or an Academic Paper
@@ -50,13 +51,14 @@ If you liked these notes, feel free to pass on.
 --------------------------------------
 ## 1. The nature of research
 ### 1.1. Science and the need for rigour
-### 1.2. The nature of gap
-### 1.3. Why is publishing important
-### 1.4. What are journals
-#### 1.4.1. Open Access vs Traditional Journals
-### 1.5. IP and Ethical guidelines
-#### 1.5.1. Intellectual Property rights of the journals
-#### 1.5.2. Ethical guidelines in the research community
+### 1.2. The nature of The Gap
+### 1.3. The Research Community
+### 1.4. Why is publishing important
+### 1.5. What are journals
+#### 1.5.1. Open Access vs Traditional Journals
+### 1.6. IP and Ethical guidelines
+#### 1.6.1. Intellectual Property rights of the journals
+#### 1.6.2. Ethical guidelines in the research community
 ## 2. What constitutes an Article or an Academic Paper
 ### 2.1. The Title
 ### 2.2. Abstract
@@ -86,29 +88,38 @@ If you liked these notes, feel free to pass on.
 #### 3.7.5. Responding to reviewer commentary
 ## 4. References
 
+--------------------------------------
+
+
 ======================================
-
---------------------------------------
-
-## Publishing - The what and why
-
-### What is the publication process
-
-- The reason why a journal exists is to disseminate scientific information to its readers
-- A work may be deemed to be scientific if it satisfies fairly certain criteria which may or may not be rigorous - for example on verifiability, falsifiability.
-- A journal is atleast partially responsible for the correctness of the content in the journal. Therefore often there is a verification process which works by peer review.
-- The process itself can be sometimes long and arduous, requiring several iterations. Sucessful publishing requires a certain leel of perseverance and commitment
+======================================
+## 1. The nature of research
 
 
-### Why is publishing important
 
-- It is a critical component of academic life. A researcher carries out research that is relevant to the world at large. The way they inform the scientific community about their research is through publications.
-- It is a means for advancing the knowledge of the scientific community. Non scientific publications would not be suitable as non-rigorous claims may be made. No publication would mean that people cannot build on top of each other's knowledge
-- It gives feedback from reviewers who are important decision makers in your field
-- Real world progress happens through progress in the scientific community
-- Most importantly if you are in academia - publish or perish! Helps in getting salaries, grants, promotions, etc in academia
 
---------------------------------------
+
+
+### 1.1. Science and the need for rigour
+
+
+### 1.2. The nature of The Gap
+### What is the gap
+
+Every literature review identifies gaps in the current scientific knowledge. Sometimes several gaps may be found. These can be in terms of further work suggested by authors in papers or something you identify as you read through papers.
+
+- Delimiting or reducing the scope of your paper means that you identify the one gap that your paper wants to fill. The gap is some area of research that has not been looked at yet. This is a space in which your research question can operate. 
+- The gap is less a question of has it already been done, but a question of can it be extended in some original way.
+- For example: never say that it has never been done before. It is likely that the reviewer has seen attempts to work on the problem before (even if you have not). Maybe it has not been done before because there was a reason the research path was not pursued or that it was not interesting enough. Remember that even if it is a blind review you are speaking to people in the same research domain, so when you say it's not been done, you are saying they haven't done it.
+
+Once you have identified the Gap, you must specify the Gap.
+- The first step to specifying the gap is to be clear on the research question. 
+- The research question is a short explanation for the gap you found in the literature analysis and how you intend to atleast partly fill it.
+- The research question has to be extremely clear to the reader. Don't hide it behind complex prose
+- In essence it is the answer to the question - what is your article about. It is the most important part of the paper - highlight it.
+
+
+### 1.3. The Research Community
 
 ## The key to getting published - KYC - Know Your Community!
 
@@ -138,7 +149,26 @@ Step 1: Go to the website of the journal you have selected as compatible with yo
 
 Step 2: Based on your review of the editorial board and the likely editor, make a list of relevant references that you should include in your submission to this academic journal.
 
---------------------------------------
+
+### 1.4. Why is publishing important
+### Why is publishing important
+
+- It is a critical component of academic life. A researcher carries out research that is relevant to the world at large. The way they inform the scientific community about their research is through publications.
+- It is a means for advancing the knowledge of the scientific community. Non scientific publications would not be suitable as non-rigorous claims may be made. No publication would mean that people cannot build on top of each other's knowledge
+- It gives feedback from reviewers who are important decision makers in your field
+- Real world progress happens through progress in the scientific community
+- Most importantly if you are in academia - publish or perish! Helps in getting salaries, grants, promotions, etc in academia
+
+
+
+### 1.5. What are journals
+
+### What is the publication process
+
+- The reason why a journal exists is to disseminate scientific information to its readers
+- A work may be deemed to be scientific if it satisfies fairly certain criteria which may or may not be rigorous - for example on verifiability, falsifiability.
+- A journal is atleast partially responsible for the correctness of the content in the journal. Therefore often there is a verification process which works by peer review.
+- The process itself can be sometimes long and arduous, requiring several iterations. Sucessful publishing requires a certain level of perseverance and commitment
 
 ## Journals
 
@@ -157,7 +187,6 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
   - Time Scale (several months to years) - pre print to arxiv for speed
   - Content Accuracy
 
-* Who pays for publication? author or readers?
 
 - Ambit of a journal
   - Tailor your paper to the journal to avoid desk reject. Make it read (formatting,template) like existing articles in that journal
@@ -171,7 +200,21 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
   - The cover letter
     - Cover letter contains research and motivations and why the journal is a good match for your work.
 
-### A Note about IP OR Why it's important to cite
+	
+#### 1.5.1. Open Access vs Traditional Journals
+
+* Who pays for publication? author or readers?
+
+### 1.6. IP and Ethical guidelines
+
+
+#### 1.6.1. Intellectual Property rights of the journals
+
+#### 1.6.2. Ethical guidelines in the research community
+
+
+
+### Ethical guidelines
 
 - When you write something in a specific journal, you agree to give full access to all the results by the journal.
 - You keep the basic intellectual property for the paper but give away copyright to the journal.
@@ -180,161 +223,33 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
 - You can however use an image or text if you cite the original author. Citation from the scientific point of view also leads the reader to the original source of content
 - Publication different from patent as you will not have legal right on your research
 
-### Ethical guidelines
+
+#### 1.5.2. Ethical guidelines in the research community
 
 - Who is an author? An author plays a role in the conception, design, analysis or writing of the study. You should be able to tell a journal what work each author did. It is also important as the authors gain due credit for work done.
 - You may not submit a paper to different journals at the same time - or even submit equivalent findings in two separated papers
 - Ethical guidelines in various fields might be different. For example in biology, research participants must give consent to participate in study.
 
---------------------------------------
+## 2. What constitutes an Article or an Academic Paper
 
-## Understanding your Paper
+## Structure of an academic paper
+- Title
+- Abstract
+- Keywords
+- Introduction
+- Literature Review
+- Methodology
+- Results and Analysis
+- Discussion
+- Conclusion
+- Bibliography
 
-### What is the paper about
+### 2.1. The Title
+### Title
+- Simple short and clear
+- The best papers have the most understandable titles: don't couch your work in too much jargon
 
-- Will it pass the so what test?
-  - What will change in the way academics see the field?
-  - What will i bring to the table that hasn't been said before in those terms
-  - The literature survey is super important to answer this question, does it say anything that hasn't been said before
-- Who should i discuss with so that my paper is relevant
-- Identify a colleague who can help you position the work in the terms chosen -  by yourself, by the journal, by your community
-- What kind of paper do you want to write? Emperical? Theoretical? For example do you wnat to publish is Harvard Business Review or Industrial and Corporate change?
-- Thus the task of delimiting the paper has two goals
-  - Building a coherent reasoning throughout the paper
-  - Position the paper within the field
-
-#### Exercise
-- Discuss the main idea for your paper in 30 words in keeping with the following steps:
-  - Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
-  - Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
-  - Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
-
---------------------------------------
-
-## Literature Review
-
-### Objective of a literature review
-
-- The purpose of science is to expanding human knowledge, or expanding the frontier of the known vis-a-vis the unknown. A scientific problem only arises at this frontier.
-  - If you are looking before the frontier, you are looking for something already found. If you look too deep into the unknown you may get lost.
-  - As a young researcher, one doesn't know whats at this frontier. Theories get proven and others debunked. To go through all that work to prove or disprove something already done may not be worthwhile, so the literature survey is paramount. 
-  - Further the frontier is always moving, and thus one may not rely purely on texts or books in the field to know where the frontier is.
-- There are several viewpoints when looking at the same research problem. Not all of these may have been looked at. While doing the literature survey, you may find novel ideas.
-- Note the quote from Newton: "If i have seen further, it is by standing on the shoulders of giants"
-
-
-- Literature review is also a means for specifying why your work is original. Examples are:
-  - New emperical work: This is new work even if it proves/substantiates something already known
-  - New interpretation: Known ideas interpreted in a new light
-  - New data: New data applied to old problems.
-  - New context: Translating techniques from one context or solved problem to another
-  - Transdisciplinary Research: Looking at areas from one field through the context of another field
-  - Original Synthesis: The hard problem of a completely new (theoretical) solution to an unsovled problem
-  - New field of research: Only if you have begun something completely new, like information theory or cryptography!
-
-
-### Goals of a literature review in the context of your paper
-
-- Identify the knowledge frontier and what needs to be studied
-- Identify the context of your research domain/problem
-- Identify key words related to your area and their relationships
-- Identify the relationships between what emperical findings lead to what theoretical frameworks, or what theoretical predictions preceded what emperical findings. Important in all applied domains except say basic mathematics.
-
-
-### What are the main tools for a literature survey
-
-- There are three main steps to keep in mind when you carry out your literature survey. 
-  - Finding relevant literature
-  - Keeping notes as you write your survey
-  - Retrieving efficiently the literature when actually writing out your survey
-- Each of these requires different tools.
-
-
-- Main tool is google scholar with keywords
-  - Keep in mind principles, else you will be drowned in references
-  - The first step is to translate the complex problem you have in terms of a few keywords.
-  - You can get either too specific or too general in your first few attempts at keywords. Do a step down search, reading only the abstracts at this stage and noting on the side the references. 
-  - Once you form a broad map in your head of the keyword based papers, then you can choose the specific keywords of greatest interest and go deeper into the relevant papers.
-  - For the most important keywords that you have create alerts so that you can track that area of research
-  - Once you have completed a literature review based on certain keyword topics, go to related keywords or any new keywords added during your previous search and restart the study. Think about all concepts, problems and disciplines related to your original problem statement.
-
-
-- The number of times a paper is cited is an extremely good indicator of its importance pertaining to the question it seeks to answer. Note that more general applications tend to get a greater number of citations.
-- Note the most important journals which tend to often occur during your search. This defines the most important journals for the domain of your interest.
-- It may be useful to carry out research on the website of the journals in question (if they are not general purpose publications) for more articles in this domain using keywords.
--- Keep a special note of review papers in your domain. These are the best sources for further links into papers of interest.
-
-- Don't get lost! don't lose sight of your original topic. Know that the amount of content in the world is effectively infinite and you can't cover it all. 
--- Be very wise with your time in knowing that your eventual goal is to find something new not to read others work and do the literature review.
-
-
-
-#### Why is using tools important
-
-- When you find articles you can use technological tools to store them. 
-  - This ensures you don't have to cover the same ground again at the end of a literature review when you want to find the paper talking about a particular subject. 
-  - When it will be the time to write, you will not have the time to read the same article again. This could normally be 3 years later, in case of PhDs, and by this time you would have forgotten the content, unless you annotated it in the first place.
-
-#### Notes during reading and how to take them
-
-- Takes notes when you are doing a literature survey
-
-- Notes can often cover the following information. You could use a table for this, or say excel or something like that.
-  - Authors
-  - Date
-  - Full reference
-  - Problem Addressed
-  - Methodology
-  - Make a note of all quotes required with page numbers
-  - Make all possible personal notes about the article
-    - This is crucial as you may lose the idea you had while reading the article at a later date when you begin to write.
-
-- Add any additional columns in case useful. For example if you need to note mathematical relationships found, hae a field for that.
-- Before beginning, make a list of all possible columns that you may want to fill out. 
-  - This is difficult to modify later on, as you can't go back to papers already read to fill out new information, so make this as comprehensive as possible at the start.
-
-- Note that any additional information stored in the reading process saves so much time in the end when doing the actual writing. Further it can lead to lines of investigation otherwise overlooked at a later date. Therefore it is well worth the investment
-
-#### Tech tools available for literature surveys.
-- Zotero is often used to store articles of interest in research.
-- Mendeley is also sometimes used
-
---------------------------------------
-
-
-### What is the gap
-
-Every literature review identifies gaps in the current scientific knowledge. Sometimes several gaps may be found. These can be in terms of further work suggested by authors in papers or something you identify as you read through papers.
-
-- Delimiting or reducing the scope of your paper means that you identify the one gap that your paper wants to fill. The gap is some area of research that has not been looked at yet. This is a space in which your research question can operate. 
-- The gap is less a question of has it already been done, but a question of can it be extended in some original way.
-- For example: never say that it has never been done before. It is likely that the reviewer has seen attempts to work on the problem before (even if you have not). Maybe it has not been done before because there was a reason the research path was not pursued or that it was not interesting enough. Remember that even if it is a blind review you are speaking to people in the same research domain, so when you say it's not been done, you are saying they haven't done it.
-
-Once you have identified the Gap, you must specify the Gap.
-- The first step to specifying the gap is to be clear on the research question. 
-- The research question is a short explanation for the gap you found in the literature analysis and how you intend to atleast partly fill it.
-- The research question has to be extremely clear to the reader. Don't hide it behind complex prose
-- In essence it is the answer to the question - what is your article about. It is the most important part of the paper - highlight it.
-
---------------------------------------
-
-## Bringing it all together: Research Design
-- Type of results provided in the literature review have to raise comprehension about or around the research question you raised at the beginning of the paper. Everything else is superfluous.
-- The research question is the unifying thread of the paper and it justifies the research process
-- While you work through the paper, often there would be back and forth between the research question, the theoretical background, the emperical context and the methodology - mainly keeping in mind coherence.
-- When the paper is done, all the composing blocks of the paper have to be such that the reader can go seamlessly from each composing block to the next in the paper. 
-- The research design has to be transparent and cohorent to the reader. Since there cannot be logical mis-steps, the research and paper design must come before the writing begins.
-- The structure of the paper must mirror the research process - ie. it must enable us to go from the literary gap and the research question to the results and contribution.
-- If any item is superfluous, or doesn't serve and even hinders the global coherence, remove that item.
-- Most importantly - One idea, One paper.
-
-### Coherence of Research Methodology
-
-- Rigor of scientific methodology - is what you have stated correct and keeping with scientific methodology
-- Research Novelty - Identification and specification of gap
-- Writing Quality - internal and external coherence of all blocks
-
---------------------------------------
+### 2.2. Abstract
 ## The Abstract
 
 #### Why the abstract is important
@@ -379,25 +294,216 @@ Questions to be addressed in the abstract
 
 Answers to each of the above question in one or two lines will help build your abstract. 
 
+### 2.3. Keywords
+
+### 2.4. Introduction
+
+### 2.5. Literature Review
+
+## Literature Review
+
+### Objective of a literature review
+
+- The purpose of science is to expanding human knowledge, or expanding the frontier of the known vis-a-vis the unknown. A scientific problem only arises at this frontier.
+  - If you are looking before the frontier, you are looking for something already found. If you look too deep into the unknown you may get lost.
+  - As a young researcher, one doesn't know whats at this frontier. Theories get proven and others debunked. To go through all that work to prove or disprove something already done may not be worthwhile, so the literature survey is paramount. 
+  - Further the frontier is always moving, and thus one may not rely purely on texts or books in the field to know where the frontier is.
+- There are several viewpoints when looking at the same research problem. Not all of these may have been looked at. While doing the literature survey, you may find novel ideas.
+- Note the quote from Newton: "If i have seen further, it is by standing on the shoulders of giants"
+
+
+- Literature review is also a means for specifying why your work is original. Examples are:
+  - New emperical work: This is new work even if it proves/substantiates something already known
+  - New interpretation: Known ideas interpreted in a new light
+  - New data: New data applied to old problems.
+  - New context: Translating techniques from one context or solved problem to another
+  - Transdisciplinary Research: Looking at areas from one field through the context of another field
+  - Original Synthesis: The hard problem of a completely new (theoretical) solution to an unsovled problem
+  - New field of research: Only if you have begun something completely new, like information theory or cryptography!
+
+
+### Goals of a literature review in the context of your paper
+
+- Identify the knowledge frontier and what needs to be studied
+- Identify the context of your research domain/problem
+- Identify key words related to your area and their relationships
+- Identify the relationships between what emperical findings lead to what theoretical frameworks, or what theoretical predictions preceded what emperical findings. Important in all applied domains except say basic mathematics.
+
+
+### 2.6. Methodology
+
+### 2.7. Results and Analysis
+
+### 2.8. Discussion
+
+### 2.9. Conclusion
+
+### 2.10. Bibliography
+
+## 3. How to get published
+
+### 3.1. Rejection as a right of passage for an academic
+
+### 3.2. Designing your research
+## Bringing it all together: Research Design
+- Type of results provided in the literature review have to raise comprehension about or around the research question you raised at the beginning of the paper. Everything else is superfluous.
+- The research question is the unifying thread of the paper and it justifies the research process
+- While you work through the paper, often there would be back and forth between the research question, the theoretical background, the emperical context and the methodology - mainly keeping in mind coherence.
+- When the paper is done, all the composing blocks of the paper have to be such that the reader can go seamlessly from each composing block to the next in the paper. 
+- The research design has to be transparent and cohorent to the reader. Since there cannot be logical mis-steps, the research and paper design must come before the writing begins.
+- The structure of the paper must mirror the research process - ie. it must enable us to go from the literary gap and the research question to the results and contribution.
+- If any item is superfluous, or doesn't serve and even hinders the global coherence, remove that item.
+- Most importantly - One idea, One paper.
+
+### Coherence of Research Methodology
+
+- Rigor of scientific methodology - is what you have stated correct and keeping with scientific methodology
+- Research Novelty - Identification and specification of gap
+- Writing Quality - internal and external coherence of all blocks
+
+
+### 3.3. So What?
+
+### 3.4. How not to lose track
+
+#### 3.4.1. Knowing the end goal
+
+#### 3.4.2. Creating a path
+
+#### 3.4.3. Using tools
+
+### 3.5. Tools to use while working
+#### Why is using tools important
+
+- When you find articles you can use technological tools to store them. 
+  - This ensures you don't have to cover the same ground again at the end of a literature review when you want to find the paper talking about a particular subject. 
+  - When it will be the time to write, you will not have the time to read the same article again. This could normally be 3 years later, in case of PhDs, and by this time you would have forgotten the content, unless you annotated it in the first place.
+
+### What are the main tools for a literature survey
+
+- There are three main steps to keep in mind when you carry out your literature survey. 
+  - Finding relevant literature
+  - Keeping notes as you write your survey
+  - Retrieving efficiently the literature when actually writing out your survey
+- Each of these requires different tools.
+
+
+- Main tool is google scholar with keywords
+  - Keep in mind principles, else you will be drowned in references
+  - The first step is to translate the complex problem you have in terms of a few keywords.
+  - You can get either too specific or too general in your first few attempts at keywords. Do a step down search, reading only the abstracts at this stage and noting on the side the references. 
+  - Once you form a broad map in your head of the keyword based papers, then you can choose the specific keywords of greatest interest and go deeper into the relevant papers.
+  - For the most important keywords that you have create alerts so that you can track that area of research
+  - Once you have completed a literature review based on certain keyword topics, go to related keywords or any new keywords added during your previous search and restart the study. Think about all concepts, problems and disciplines related to your original problem statement.
+
+
+- The number of times a paper is cited is an extremely good indicator of its importance pertaining to the question it seeks to answer. Note that more general applications tend to get a greater number of citations.
+- Note the most important journals which tend to often occur during your search. This defines the most important journals for the domain of your interest.
+- It may be useful to carry out research on the website of the journals in question (if they are not general purpose publications) for more articles in this domain using keywords.
+-- Keep a special note of review papers in your domain. These are the best sources for further links into papers of interest.
+
+- Don't get lost! don't lose sight of your original topic. Know that the amount of content in the world is effectively infinite and you can't cover it all. 
+-- Be very wise with your time in knowing that your eventual goal is to find something new not to read others work and do the literature review.
+
+
+
+
+
+#### Notes during reading and how to take them
+
+- Takes notes when you are doing a literature survey
+
+- Notes can often cover the following information. You could use a table for this, or say excel or something like that.
+  - Authors
+  - Date
+  - Full reference
+  - Problem Addressed
+  - Methodology
+  - Make a note of all quotes required with page numbers
+  - Make all possible personal notes about the article
+    - This is crucial as you may lose the idea you had while reading the article at a later date when you begin to write.
+
+- Add any additional columns in case useful. For example if you need to note mathematical relationships found, hae a field for that.
+- Before beginning, make a list of all possible columns that you may want to fill out. 
+  - This is difficult to modify later on, as you can't go back to papers already read to fill out new information, so make this as comprehensive as possible at the start.
+
+- Note that any additional information stored in the reading process saves so much time in the end when doing the actual writing. Further it can lead to lines of investigation otherwise overlooked at a later date. Therefore it is well worth the investment
+
+#### Tech tools available for literature surveys.
+- Zotero is often used to store articles of interest in research.
+- Mendeley is also sometimes used
+
+### 3.6. Getting the basics right
+
+### 3.7. Getting the process right
+
+#### 3.7.1. Selecting a journal
+
+#### 3.7.2. Selecting peers to publish with
+
+#### 3.7.3. First Authorship
+
+#### 3.7.4. Working with peers to get to a better paper
+
+#### 3.7.5. Responding to reviewer commentary
+
+## 4. References
+
+======================================
+--------------------------------------
+
 
 
 --------------------------------------
 
-## Structure of an academic paper
-- Title
-- Abstract
-- Keywords
-- Introduction
-- Literature Review
-- Methodology
-- Results and Analysis
-- Discussion
-- Conclusion
-- Bibliography
 
-### Title
-- Simple short and clear
-- The best papers have the most understandable titles: don't couch your work in too much jargon
+--------------------------------------
+
+
+
+
+--------------------------------------
+
+## Understanding your Paper
+
+### What is the paper about
+
+- Will it pass the so what test?
+  - What will change in the way academics see the field?
+  - What will i bring to the table that hasn't been said before in those terms
+  - The literature survey is super important to answer this question, does it say anything that hasn't been said before
+- Who should i discuss with so that my paper is relevant
+- Identify a colleague who can help you position the work in the terms chosen -  by yourself, by the journal, by your community
+- What kind of paper do you want to write? Emperical? Theoretical? For example do you wnat to publish is Harvard Business Review or Industrial and Corporate change?
+- Thus the task of delimiting the paper has two goals
+  - Building a coherent reasoning throughout the paper
+  - Position the paper within the field
+
+#### Exercise
+- Discuss the main idea for your paper in 30 words in keeping with the following steps:
+  - Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
+  - Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
+  - Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
+
+--------------------------------------
+
+
+--------------------------------------
+
+
+
+--------------------------------------
+
+
+--------------------------------------
+
+
+
+--------------------------------------
+
+
+
+
 
 ### Abstract
 - Synthesizes the main points of the paper
