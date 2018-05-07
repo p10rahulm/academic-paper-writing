@@ -204,6 +204,14 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
 #### 1.5.1. Open Access vs Traditional Journals
 
 * Who pays for publication? author or readers?
+### What is open publication and should you go for it?
+Traditionally journals used to be funded by libraries and subscriptions of institutions. So you subscribe to the journal and when you subscribe you have access to the articles. There is a new trend these days of open publications being paid for by the writer and not the reader. 
+- It appeared around 10 years ago and is gaining ground. The editorial process in open access journal is still as rigorous in the good journals. 
+- But many journals and conferences are fly-by-night and exist only to make money. Further these are probably the ones advertising heavily and sending personalized mails to you to publish in them [Predatory and Fake Scientific Journals...A Review](http://scindeks-clanci.ceon.rs/data/pdf/0354-8724/2014/0354-87241403069L.pdf)
+- Therefore determine what is not open access. Here's a good [criteria list](http://ssau.ru/files/science/crpd/CriteriaBillPublishers2015.pdf) to determine such publisers, and here's a known [offenders list](https://beallslist.weebly.com/standalone-journals.html)
+
+- Same is the case with conferences as well. Here's a good set of [questions to ask yourself](https://thinkcheckattend.org/) before you decide to support or attend one.
+
 
 ### 1.6. IP and Ethical guidelines
 
@@ -232,6 +240,25 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
 
 ## 2. What constitutes an Article or an Academic Paper
 
+### What is the paper about
+
+- Will it pass the so what test?
+  - What will change in the way academics see the field?
+  - What will i bring to the table that hasn't been said before in those terms
+  - The literature survey is super important to answer this question, does it say anything that hasn't been said before
+- Who should i discuss with so that my paper is relevant
+- Identify a colleague who can help you position the work in the terms chosen -  by yourself, by the journal, by your community
+- What kind of paper do you want to write? Emperical? Theoretical? For example do you wnat to publish is Harvard Business Review or Industrial and Corporate change?
+- Thus the task of delimiting the paper has two goals
+  - Building a coherent reasoning throughout the paper
+  - Position the paper within the field
+
+#### Exercise
+- Discuss the main idea for your paper in 30 words in keeping with the following steps:
+  - Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
+  - Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
+  - Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
+
 ## Structure of an academic paper
 - Title
 - Abstract
@@ -250,6 +277,12 @@ Step 2: Based on your review of the editorial board and the likely editor, make 
 - The best papers have the most understandable titles: don't couch your work in too much jargon
 
 ### 2.2. Abstract
+### What is an abstract
+- Synthesizes the main points of the paper
+- The most important part of the paper
+- Once you read the abstract the reader has to know exactly what the paper is about.
+- The abstract is covered in detail in a previous section
+
 ## The Abstract
 
 #### Why the abstract is important
@@ -295,10 +328,42 @@ Questions to be addressed in the abstract
 Answers to each of the above question in one or two lines will help build your abstract. 
 
 ### 2.3. Keywords
+### Keywords
+
+- Help to reference your paper and classify it
+- What do you think people will search for so that they come to your paper
+- If you choose generic keywords, your paper will be low on the list, but if you choose too specific, no one may search for it.
+
 
 ### 2.4. Introduction
+### Introduction
+
+- Here you identify the research question. 
+- The first line in the introduction is very important. Work and rework it until it's perfect. Just like the title. This is the first line in the paper no? the thing that people read the most after title and maybe abstract.
+- Finish the introduction with an outline paragraph. In this paragraph, identify what you will do in each section
+- A good outline, for example may begin, "The paper is structured as follows"
+- The introduction should answer what is called the MRCI framework. This should be the leit-motif when writing the introduction and the abstract too (The abstract may be looked at as the short version of the introduction):
+  - M: Motivation - what is the motivation of your topic, do you explain why there is a real gap in the literature? Also why your research question is interesting/relevant or important. 
+  - R: Results - In the introduction itself it may be a good idea to put in the findings, especially if they are important. Thats the part where you answer the research question.
+  - C: Contributions - How do these resutls contribute to the ongoing research or previous literature? Can be theoretical, as in a new synthesis or can be emperical where you bring up new data or highlight a new phenomena. Contributions can even be methodological, if you have designed a new method to do the same things done before in a better/complementary manner.
+  - I: Implications - What are the implications for managers if you are in management, for consumers if you are in marketing and other physicists/knowledge of science if you are in the sciences and so on.
+
 
 ### 2.5. Literature Review
+### Literature Review
+
+- The point is not to be exhaustive in your review of the literature
+- Present exactly what is needed to get to the research question
+- You have to show the limits of previous research to justify the necessity of your own work
+- Notes from those in the know:
+  - Most literature reviews are at best very confusing, at worst boring!
+  - While you read everything, definitely make sure you don't put down everything in the literature review.
+  - Just write what is significant, highly relevant and leads to your research question
+- Have a purpose while writing a review: You are not just listing references, but you are conducting an argument or debate thats leading you somewhere. Know what you want your literature survey to say, break it down into paragraphs leading the reader from what they know (which is presumably more general than your own research topic) to your research question, or the gap.
+- Write the outline of the literature review (for yourself/someone else in your field) to read before you start writing the review.
+  - Balance between right amount of references and being too exhaustive, not being critical enough or being too critical, not showing enough respect or showing way too much, going back to ancient civilization, or rejecting anything older than 5 year. 
+- Keep in mind that the literature review is also a political act! By choosing whom to quote, you are choosing a side in the research community. So treat carefully and ensure you are not ommitting any key references. 
+
 
 ## Literature Review
 
@@ -331,14 +396,63 @@ Answers to each of the above question in one or two lines will help build your a
 
 
 ### 2.6. Methodology
+### Methodology
 
+- If you have an emperical paper, you may have a methodology section
+- Here give a thorough walkthrough o your research design
+- Some journals and disciplines want the methodology, maybe in appendix or at the end of the paper
+- Here you justify the way you proceeded with your research - why does it have to be done in a specific way, etc
+- The Methodology itself may have some sub-parts:
+  - Research Design: For example in a case study, you may want to discuss why the field you chose is significant or how you will derive general principles from it. This is the research design
+  - Data Collection: In experiments, you will have to discuss the way the data was collected. The when, how and to what purpose. The raw data itself may be shared separately from the paper or you can add a note to contact the authors for it
+  - Scientific Rigor: You have to convince the reader that your measures are valid and reliable. That you have adhered to scientific rigour. 
+  - Data Analysis: Explain when and how you will use the data. Know your target journal and understand what they expect from you in this matter
+
+  
 ### 2.7. Results and Analysis
+### Results and Analysis
+
+- Present your findings here. 
+- If this is a theoretical paper, the analysis also goes here
+- This is the core of the paper. This is what people will cite you for. 
+
+
+
+
 
 ### 2.8. Discussion
+### Discussion
+
+- Once you have presented the results, you need to justify how it contributes to the literature you described before
+- Here you prove the relevance of your work and is often very important
+- In short, in the discussion section, you remind the reader of the research question. You summarize the analysis and findings and then explain how you contribute to previous literature
+- Sometimes the research contributions would have implications on research of others in your field in practice. If so, you should make this explicit.
+
 
 ### 2.9. Conclusion
+### Conclusion
 
-### 2.10. Bibliography
+- The form of the conclusion differs a lot, depending on the journal and discipline.
+- Sometimes this is where you show the limits of your work
+- It can address future roadmaps for research and how you intend to address them in future research
+- Sometimes it may just be a short summary of your research question and contributions. Completely depends on the journal.
+- The conclusion should always be short and powerful, in case thats the only thing people read. 
+- Look for what is surprising or original or unexpected to the community.
+- Highlight what is counter-intuitive or original about them and how they bring new light to literature.
+
+### 2.10. Appendix and Bibliography
+### References Section
+
+- Table of Tables, Figures and Graphs: Some journals need this at the end, and some in a separate file, and others in the text itself, in the introduction. Remember to read the journal's guide to authors. 
+- Include all the bibliography
+- Include appendix and any sections that didn't make the cut in the main paper but are crucial to the paper itself
+
+### Bibliography
+
+- Blbliography across journals and communities is very different. 
+- Sample:
+  - [Sl No] Authors, Title, Name of Journal, Date, Page Numbers, Additional information
+  - Authors [Date], Title, Name of Journal, Page Numbers, Additional information
 
 ## 3. How to get published
 
@@ -466,24 +580,6 @@ Answers to each of the above question in one or two lines will help build your a
 
 ## Understanding your Paper
 
-### What is the paper about
-
-- Will it pass the so what test?
-  - What will change in the way academics see the field?
-  - What will i bring to the table that hasn't been said before in those terms
-  - The literature survey is super important to answer this question, does it say anything that hasn't been said before
-- Who should i discuss with so that my paper is relevant
-- Identify a colleague who can help you position the work in the terms chosen -  by yourself, by the journal, by your community
-- What kind of paper do you want to write? Emperical? Theoretical? For example do you wnat to publish is Harvard Business Review or Industrial and Corporate change?
-- Thus the task of delimiting the paper has two goals
-  - Building a coherent reasoning throughout the paper
-  - Position the paper within the field
-
-#### Exercise
-- Discuss the main idea for your paper in 30 words in keeping with the following steps:
-  - Step 1: Is the contribution of your paper theoretical, empirical, or methodological?
-  - Step 2: Regardless of the type of contribution your paper will make, it should fit the type of paper the journal is seeking. To understand the type of paper the journal is seeking, select some similar papers that have been published in is journal, and identify the problem raised in each paper.
-  - Step 3: Check to make sure that the problem you raise in your own paper is coherent with those previously published.
 
 --------------------------------------
 
@@ -505,98 +601,6 @@ Answers to each of the above question in one or two lines will help build your a
 
 
 
-### Abstract
-- Synthesizes the main points of the paper
-- The most important part of the paper
-- Once you read the abstract the reader has to know exactly what the paper is about.
-- The abstract is covered in detail in a previous section
-
-
-### Keywords
-
-- Help to reference your paper and classify it
-- What do you think people will search for so that they come to your paper
-- If you choose generic keywords, your paper will be low on the list, but if you choose too specific, no one may search for it.
-
-
-
-### Introduction
-
-- Here you identify the research question. 
-- The first line in the introduction is very important. Work and rework it until it's perfect. Just like the title. This is the first line in the paper no? the thing that people read the most after title and maybe abstract.
-- Finish the introduction with an outline paragraph. In this paragraph, identify what you will do in each section
-- A good outline, for example may begin, "The paper is structured as follows"
-- The introduction should answer what is called the MRCI framework. This should be the leit-motif when writing the introduction and the abstract too (The abstract may be looked at as the short version of the introduction):
-  - M: Motivation - what is the motivation of your topic, do you explain why there is a real gap in the literature? Also why your research question is interesting/relevant or important. 
-  - R: Results - In the introduction itself it may be a good idea to put in the findings, especially if they are important. Thats the part where you answer the research question.
-  - C: Contributions - How do these resutls contribute to the ongoing research or previous literature? Can be theoretical, as in a new synthesis or can be emperical where you bring up new data or highlight a new phenomena. Contributions can even be methodological, if you have designed a new method to do the same things done before in a better/complementary manner.
-  - I: Implications - What are the implications for managers if you are in management, for consumers if you are in marketing and other physicists/knowledge of science if you are in the sciences and so on.
-
-
-
-
-### Literature Review
-
-- The point is not to be exhaustive in your review of the literature
-- Present exactly what is needed to get to the research question
-- You have to show the limits of previous research to justify the necessity of your own work
-- Notes from those in the know:
-  - Most literature reviews are at best very confusing, at worst boring!
-  - While you read everything, definitely make sure you don't put down everything in the literature review.
-  - Just write what is significant, highly relevant and leads to your research question
-- Have a purpose while writing a review: You are not just listing references, but you are conducting an argument or debate thats leading you somewhere. Know what you want your literature survey to say, break it down into paragraphs leading the reader from what they know (which is presumably more general than your own research topic) to your research question, or the gap.
-- Write the outline of the literature review (for yourself/someone else in your field) to read before you start writing the review.
-  - Balance between right amount of references and being too exhaustive, not being critical enough or being too critical, not showing enough respect or showing way too much, going back to ancient civilization, or rejecting anything older than 5 year. 
-- Keep in mind that the literature review is also a political act! By choosing whom to quote, you are choosing a side in the research community. So treat carefully and ensure you are not ommitting any key references. 
-
-
-### Methodology
-
-- If you have an emperical paper, you may have a methodology section
-- Here give a thorough walkthrough o your research design
-- Some journals and disciplines want the methodology, maybe in appendix or at the end of the paper
-- Here you justify the way you proceeded with your research - why does it have to be done in a specific way, etc
-- The Methodology itself may have some sub-parts:
-  - Research Design: For example in a case study, you may want to discuss why the field you chose is significant or how you will derive general principles from it. This is the research design
-  - Data Collection: In experiments, you will have to discuss the way the data was collected. The when, how and to what purpose. The raw data itself may be shared separately from the paper or you can add a note to contact the authors for it
-  - Scientific Rigor: You have to convince the reader that your measures are valid and reliable. That you have adhered to scientific rigour. 
-  - Data Analysis: Explain when and how you will use the data. Know your target journal and understand what they expect from you in this matter
-
-### Results and Analysis
-
-- Present your findings here. 
-- If this is a theoretical paper, the analysis also goes here
-- This is the core of the paper. This is what people will cite you for. 
-
-### Discussion
-
-- Once you have presented the results, you need to justify how it contributes to the literature you described before
-- Here you prove the relevance of your work and is often very important
-- In short, in the discussion section, you remind the reader of the research question. You summarize the analysis and findings and then explain how you contribute to previous literature
-- Sometimes the research contributions would have implications on research of others in your field in practice. If so, you should make this explicit.
-
-### Conclusion
-
-- The form of the conclusion differs a lot, depending on the journal and discipline.
-- Sometimes this is where you show the limits of your work
-- It can address future roadmaps for research and how you intend to address them in future research
-- Sometimes it may just be a short summary of your research question and contributions. Completely depends on the journal.
-- The conclusion should always be short and powerful, in case thats the only thing people read. 
-- Look for what is surprising or original or unexpected to the community.
-- Highlight what is counter-intuitive or original about them and how they bring new light to literature.
-
-### References Section
-
-- Table of Tables, Figures and Graphs: Some journals need this at the end, and some in a separate file, and others in the text itself, in the introduction. Remember to read the journal's guide to authors. 
-- Include all the bibliography
-- Include appendix and any sections that didn't make the cut in the main paper but are crucial to the paper itself
-
-### Bibliography
-
-- Blbliography across journals and communities is very different. 
-- Sample:
-  - [Sl No] Authors, Title, Name of Journal, Date, Page Numbers, Additional information
-  - Authors [Date], Title, Name of Journal, Page Numbers, Additional information
 
 #### Using Zotero for Bibliography
 - To create different formats, right click on folder in Zotero and click create bibliography option
@@ -835,10 +839,3 @@ In spite of following all the guidelines, if your paper is rejected, don't be di
 - Always point out that you appreciate the work the reviewer has put in into reviewing your work.
 - Always show that you have taken the work of the reviewers very seriously and have made changes to your text accordingly. This is shown in the form of the cover letter. 
 
-### What is open publication and should you go for it?
-Traditionally journals used to be funded by libraries and subscriptions of institutions. So you subscribe to the journal and when you subscribe you have access to the articles. There is a new trend these days of open publications being paid for by the writer and not the reader. 
-- It appeared around 10 years ago and is gaining ground. The editorial process in open access journal is still as rigorous in the good journals. 
-- But many journals and conferences are fly-by-night and exist only to make money. Further these are probably the ones advertising heavily and sending personalized mails to you to publish in them [Predatory and Fake Scientific Journals...A Review](http://scindeks-clanci.ceon.rs/data/pdf/0354-8724/2014/0354-87241403069L.pdf)
-- Therefore determine what is not open access. Here's a good [criteria list](http://ssau.ru/files/science/crpd/CriteriaBillPublishers2015.pdf) to determine such publisers, and here's a known [offenders list](https://beallslist.weebly.com/standalone-journals.html)
-
-- Same is the case with conferences as well. Here's a good set of [questions to ask yourself](https://thinkcheckattend.org/) before you decide to support or attend one.
