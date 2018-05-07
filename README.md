@@ -9,15 +9,32 @@ If you liked these notes, feel free to pass on.
 ## Contents
 1. The nature of research
     1. Science and the need for rigour
-	2. Why is publishing important
+    2. Why is publishing important
     3. What are journals
         1. Open Access vs Traditional Journals
-	4. IP and Ethical guidelines
+    4. IP and Ethical guidelines
         1. Intellectual Property rights of the journals
-		2. Ethical guidelines in the research community
+        2. Ethical guidelines in the research community
 2. What constitutes an Article or an Academic Paper
-	1. Science and the need for rigour
+    1. Hi Hellow
+    2. The introduction
+    3. Science and the need for rigour
 3. How to get published
+    1. Rejection as a right of passage for an academic
+    2. Designing your research
+    3. How not to lose track
+        1. Knowing the end goal
+        2. Creating a path
+        3. Using tools
+    4. Tools to use while working
+    4. Getting the basics right
+    5. Getting the process right
+	    1. Selecting a journal
+	    2. Selecting peers to publish with
+	    3. First Authorship
+	    4. Responding to reviewer commentary
+        5. Responding to requests for change
+4. References
 
 --------------------------------------
 
