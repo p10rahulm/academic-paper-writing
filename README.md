@@ -9,6 +9,7 @@ If you liked these notes, feel free to pass on.
 ## Contents
 1. The nature of research
     1. Science and the need for rigour
+	2. The nature of gap
     2. Why is publishing important
     3. What are journals
         1. Open Access vs Traditional Journals
@@ -16,25 +17,34 @@ If you liked these notes, feel free to pass on.
         1. Intellectual Property rights of the journals
         2. Ethical guidelines in the research community
 2. What constitutes an Article or an Academic Paper
-    1. Hi Hellow
-    2. The introduction
-    3. Science and the need for rigour
+    1. The Title
+    2. Abstract
+    3. Keywords
+	4. Introduction
+	5. Literature Review
+	6. Methodology
+	7. Results and Analysis
+	8. Discussion
+	9. Conclusion
+	10. Bibliography
 3. How to get published
     1. Rejection as a right of passage for an academic
     2. Designing your research
-    3. How not to lose track
+    3. So What?
+	4. How not to lose track
         1. Knowing the end goal
         2. Creating a path
         3. Using tools
-    4. Tools to use while working
-    4. Getting the basics right
-    5. Getting the process right
+    5. Tools to use while working
+    6. Getting the basics right
+    7. Getting the process right
 	    1. Selecting a journal
 	    2. Selecting peers to publish with
 	    3. First Authorship
-	    4. Responding to reviewer commentary
-        5. Responding to requests for change
+	    4. Working with peers to get to a better paper
+        5. Responding to reviewer commentary
 4. References
+
 
 --------------------------------------
 
@@ -334,12 +344,14 @@ Answers to each of the above question in one or two lines will help build your a
 ## Structure of an academic paper
 - Title
 - Abstract
+- Keywords
 - Introduction
 - Literature Review
 - Methodology
 - Results and Analysis
 - Discussion
 - Conclusion
+- Bibliography
 
 ### Title
 - Simple short and clear
