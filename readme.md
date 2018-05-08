@@ -3,7 +3,9 @@
 
 The idea of doing something for posterity has always excited me as a goal for leading a life. As I explored science further there were what seemed to me like champions, or the people not forgotten. As Galileo and
 
-This pull of science that has been unique as it has been powerful in it's own way has created a . 
+Science at its essence is a human affair with its protagonists and villains, its stories of struggles and grand victories, its untimely demises of aging concepts and sapling like creation of new ones, the hyperbole of a sudden rise alongside the quiet labour of the steady. An encapsulation of all that it is to be human, but at the level of the human collective.
+
+This pull of science that has been unique as it has been powerful in it's own way has created a .
 The primary purpose of these set of notes I've compiled is towards my own journey in Science. Researching is difficult. It is even more difficult outside of an institutional support system. But one must find a way to cross barriers.
 
 I've collected some useful notes on writing papers. Some of these may be useful to you and some others you may want to modify to your needs. My primary reference: [How to write a scientific paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
