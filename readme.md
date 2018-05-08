@@ -38,11 +38,13 @@ If you liked these notes, feel free to pass on.
 		1. Selecting a journal
 		2. Selecting peers to publish with
 	5. Tools to use while working
-		1. Searching
-		2. Making 
+		1. Surveying Literature
+		2. Building your survey
+		3. Making Notes
 	6. Getting the basics right
 	7. The process of writing
-		1.
+		1. The Paragraph
+		2. 
 	8. Creating a paper
 		1. Knowing the end goal
 		2. Creating a path
