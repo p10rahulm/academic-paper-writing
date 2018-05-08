@@ -38,12 +38,16 @@ If you liked these notes, feel free to pass on.
 		1. Selecting a journal
 		2. Selecting peers to publish with
 	5. Tools to use while working
+		1. Searching
+		2. Making 
 	6. Getting the basics right
 	7. The process of writing
+		1.
+	8. Creating a paper
 		1. Knowing the end goal
 		2. Creating a path
 		3. Using tools
-	8. Working with coauthors
+	8. Working with co-authors
 		1. First Authorship
 		2. Working with peers to get to a better paper
 	9. Reviewing your work
