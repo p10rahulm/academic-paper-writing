@@ -1,9 +1,16 @@
 
 ## Preface
 
+Science at its essence is a human affair with its protagonists and villains, endless stories of struggles and grand victories, . limitless possibilities alongside intellectual cul-de-sacs, the hyperbole of the sudden rise of some ideas alongside the quiet labour of the steady ones, the demises of aging concepts and sapling like creation of new ones. An encapsulation of all that it is to be human, but at the level of the human collective.
+
+One peculiar set of biological automata at one miniscule corner of creation attempting to understand, build and capture all that is within the creation has seemed to me the greatest endeavour ever undertaken. Especially strange when you take into account that
+
+Like the explorers of yore trudging through physical hardships and countless dangers into the milieu of the unknown, a scientist sets out on a path that hasn't been explored with hardly a tool in hand and seldom any company. The treasures that the explorers sought came after many fruitless flights of trial, and sometimes didn't come at all. So too the scientist goes, without knowledge of fruit, and knowing full well the chance of dejection. It is as an adventure unmatched, for Science is the only adventure worth undertaking.
+
+The scripts of science are written and re-written and re-written. Like there were only one script that we all had and it had to be perfect. And we all together just wrote one script and it was an autobiography of us all. That to me is science. The ultimate collective endeavour and humanity's ultimate objective. Couched in entropy reductive
+
 The idea of doing something for posterity has always excited me as a goal for leading a life. As I explored science further there were what seemed to me like champions, or the people not forgotten. As Galileo and
 
-Science at its essence is a human affair with its protagonists and villains, its stories of struggles and grand victories, its untimely demises of aging concepts and sapling like creation of new ones, the hyperbole of a sudden rise alongside the quiet labour of the steady. An encapsulation of all that it is to be human, but at the level of the human collective.
 
 This pull of science that has been unique as it has been powerful in it's own way has created a .
 The primary purpose of these set of notes I've compiled is towards my own journey in Science. Researching is difficult. It is even more difficult outside of an institutional support system. But one must find a way to cross barriers.
@@ -52,7 +59,7 @@ If you liked these notes, feel free to pass on.
 	7. The process of writing
 		1. The Paragraph
 		2. Language Use
-		2. Citations
+		3. Citations
 	8. Creating a paper
 		1. Knowing the end goal
 		2. Creating a path
