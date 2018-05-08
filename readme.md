@@ -1,6 +1,9 @@
 
 ## Preface
 
+The idea of doing something for posterity has always excited me as a goal for leading a life. As I explored science further there were what seemed to me like champions, or the people not forgotten. As Galileo and
+
+This pull of science that has been unique as it has been powerful in it's own way has created a . 
 The primary purpose of these set of notes I've compiled is towards my own journey in Science. Researching is difficult. It is even more difficult outside of an institutional support system. But one must find a way to cross barriers.
 
 I've collected some useful notes on writing papers. Some of these may be useful to you and some others you may want to modify to your needs. My primary reference: [How to write a scientific paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
