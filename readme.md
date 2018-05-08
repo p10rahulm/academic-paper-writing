@@ -1,7 +1,9 @@
 
-## Preface
+## Preface or An Ode to the Scientist
 
-Science at its essence is a human affair with its protagonists and villains, endless stories of struggles and grand victories, . limitless possibilities alongside intellectual cul-de-sacs, the hyperbole of the sudden rise of some ideas alongside the quiet labour of the steady ones, the demises of aging concepts and sapling like creation of new ones. An encapsulation of all that it is to be human, but at the level of the human collective.
+Science at its essence is a human affair with its protagonists and villains, endless stories of struggles and grand victories, endless battles mostly fought in solitude, and people championing causes and fighting on and on. Here concepts and ideas seem to lead a life unto themselves, where limitless possibilities live alongside intellectual cul-de-sacs. Some live the hyperbole of the sudden rise alongside others which quietly labour like the steady bourgeoisie, some concepts head towards their timely, and sometimes untimely demises, whereas others are created sapling-like, nurtured amidst the giants beside them. Behind each of these lives of concepts is the painstaking and sometimes lifelong effort of the few that we call scientists.
+
+Science then is an encapsulation of all that it is to be human, but at the level of the human collective.
 
 One peculiar set of biological automata at one miniscule corner of creation attempting to understand, build and capture all that is within the creation has seemed to me the greatest endeavour ever undertaken. Especially strange when you take into account that
 
