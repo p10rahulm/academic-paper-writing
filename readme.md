@@ -44,7 +44,8 @@ If you liked these notes, feel free to pass on.
 	6. Getting the basics right
 	7. The process of writing
 		1. The Paragraph
-		2. 
+		2. Language Use
+		2. Citations
 	8. Creating a paper
 		1. Knowing the end goal
 		2. Creating a path
