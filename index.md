@@ -10,47 +10,46 @@ If you liked these notes, feel free to pass on.
 
 ## Contents
 1. The nature of research
-	1. Science and the need for rigour
-	2. The nature of The Gap
-	3. The Research Community
-	4. Why is publishing important
-	5. What are journals
-		1. Open Access vs Traditional Journals
-	6. IP and Ethical guidelines
-		1. Intellectual Property rights of the journals
-		2. Ethical guidelines in the research community
+		1. Science and the need for rigour
+		2. The nature of The Gap
+		3. The Research Community
+		4. Why is publishing important
+		5. What are journals
+			1. Open Access vs Traditional Journals
+		6. IP and Ethical guidelines
+			1. Intellectual Property rights of the journals
+			2. Ethical guidelines in the research community
 2. What constitutes an Article or an Academic Paper
-	1. The Title
-	2. Abstract
-	3. Keywords
-	4. Introduction
-	5. Literature Review
-	6. Methodology
-	7. Results and Analysis
-	8. Discussion
-	9. Conclusion
-	10. Bibliography
+		1. The Title
+		2. Abstract
+		3. Keywords
+		4. Introduction
+		5. Literature Review
+		6. Methodology
+		7. Results and Analysis
+		8. Discussion
+		9. Conclusion
+		10. Bibliography
 3. How to get published
 	1. Rejection as a right of passage for an academic
-	2. Designing your research
-	3. So What? Choosing what to write
-	4. Choosing whom to write with and where to write
-		1. Selecting a journal
-		2. Selecting peers to publish with
-	5. Tools to use while working
-	6. Getting the basics right
-	7. The process of writing
-		1. Knowing the end goal
-		2. Creating a path
-		3. Using tools
-	8. Working with coauthors
-		1. First Authorship
-		2. Working with peers to get to a better paper
-	9. Reviewing your work
-	10. Corresponding with the journal
-		1. Writing Cover letters
-		2. Responding to reviewer commentary
-		3.
+		2. Designing your research
+		3. So What? Choosing what to write
+		4. Choosing whom to write with and where to write
+			1. Selecting a journal
+			2. Selecting peers to publish with
+		5. Tools to use while working
+		6. Getting the basics right
+		7. The process of writing
+			1. Knowing the end goal
+			2. Creating a path
+			3. Using tools
+		8. Working with coauthors
+			1. First Authorship
+			2. Working with peers to get to a better paper
+		9. Reviewing your work
+		10. Corresponding with the journal
+			1. Writing Cover letters
+			2. Responding to reviewer commentary
 4. References
 
 --------------------------------------
