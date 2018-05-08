@@ -33,19 +33,23 @@ If you liked these notes, feel free to pass on.
 3. How to get published
     1. Rejection as a right of passage for an academic
     2. Designing your research
-    3. So What?
-	4. How not to lose track
-        1. Knowing the end goal
-        2. Creating a path
-        3. Using tools
+    3. So What? Choosing what to write
+	4. Choosing whom to write with and where to write
+		1. Selecting a journal
+		2. Selecting peers to publish with
     5. Tools to use while working
     6. Getting the basics right
-    7. Getting the process right
-	    1. Selecting a journal
-	    2. Selecting peers to publish with
-	    3. First Authorship
-	    4. Working with peers to get to a better paper
-        5. Responding to reviewer commentary
+    7. The process of writing
+	    1. Knowing the end goal
+        2. Creating a path
+        3. Using tools
+	8. Working with coauthors
+		1. First Authorship
+	    2. Working with peers to get to a better paper
+	9. Reviewing your work
+	10. Corresponding with the journal
+		1. Writing Cover letters
+		2. Responding to reviewer commentary
 4. References
 
 --------------------------------------
@@ -519,6 +523,11 @@ Answers to each of the above question in one or two lines will help build your a
 - Don't get lost! don't lose sight of your original topic. Know that the amount of content in the world is effectively infinite and you can't cover it all. 
 -- Be very wise with your time in knowing that your eventual goal is to find something new not to read others work and do the literature review.
 
+#### Using Zotero for Bibliography
+- To create different formats, right click on folder in Zotero and click create bibliography option
+  - Here you are asked the style of quoting which defines format of citations. If you select output format as Copy to clipboard, you can paste in your editor of choice. 
+- Often you may want to export to bibtex in case you are using Latex. This is also possible in zotero. 
+  - You can do this by clicking >File>Export>Format: Bibtex
 
 
 
@@ -550,6 +559,16 @@ Answers to each of the above question in one or two lines will help build your a
 ### 3.6. Getting the basics right
 
 ### 3.7. Getting the process right
+## The process of writing
+The writing of the paper need not be linear in terms of the building blocks described previously
+- Most times this is a bad idea! You are often writing the paper (in panic mode!) a few hours before that colloquium you really want to go to.
+- You are often putting most of the best efforts in the analysis, because thats often seen as what you are contributing to - that is your research. Again, may not be best idea if you lose sight of the research question and research design. 
+
+Notes from those in the know:
+- Rewrite the final versions of introduction, conclusion and abstract at the very last.
+- Put huge efforts and energy in these three sections - introduction, conclusion and most importantly abstract. This may be the things that people read first or even the only things that people read.
+- Know your community. Write for a specific journal or knowing the style of those who have written before you in those journals.
+
 
 #### 3.7.1. Selecting a journal
 
@@ -560,6 +579,37 @@ Answers to each of the above question in one or two lines will help build your a
 #### 3.7.4. Working with peers to get to a better paper
 
 #### 3.7.5. Responding to reviewer commentary
+## Letters to the editor
+
+### Cover Letter
+
+The cover letter is something that goes with the submission of a paper to a journal. It is a letter to the editor which describes what you did in maximum of one page. 
+- Objective is to convince the editor of your papers relevance to their journal. 
+- Advice from [Springer](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574) for the cover letter
+- Use templates for the cover letter - several can be found from a simple google search
+- Typically the editor sees tonnes of papers from all kinds of different fields so it's important to give them context on why your work is important - Relevant and Timely.
+- The cover letter is useful to tell the editor what you have been doing and why it's relevant apart from what is contained in the paper itself. 
+- Remember the editors care about their own readership so showing that your work is important, is important!
+
+### Follow up letters
+
+- The same guidelines as before apply here. e respectful, polite and formal.
+- Do not dismiss recommendations or critiques, be mindful of them and accept them when they are constructive, especially if the reviewer is known to be a senior member of your community.
+- At the same time, you don't immediately have to accede to everything. In case you think that some of the observations of the reviewers is because they have not understood the paper, do clarify your viewpoint. 
+  - For example "Thank you for your observations with regard to XY that Z should also be included. While agreeing to most of your views, we also want to bring to your notice ABC which may address some of your concerns. Specifically, ---some explanation here---. Do let us know if this satisfies your question. In case you still have more questions or want us to include Z, we would be happy to send over a revised draft."
+
+#### 3.8. Reviewing your work
+  
+## Create your own review
+
+### Review Yourself
+
+Basic Checklist as follows:
+- Did you pass the so what test?
+- Does the problem statement remain the same throughout the paper?
+- Is the title of the paper coherent?
+- Are the Keywords adequate?
+- Is the content of the research coherent with the aims and scopes of the journal you are targeting?
 
 ## 4. References
 
@@ -602,58 +652,15 @@ Answers to each of the above question in one or two lines will help build your a
 
 
 
-#### Using Zotero for Bibliography
-- To create different formats, right click on folder in Zotero and click create bibliography option
-  - Here you are asked the style of quoting which defines format of citations. If you select output format as Copy to clipboard, you can paste in your editor of choice. 
-- Often you may want to export to bibtex in case you are using Latex. This is also possible in zotero. 
-  - You can do this by clicking >File>Export>Format: Bibtex
 
 --------------------------------------
 
-## Letters to the editor
-
-### Cover Letter
-
-The cover letter is something that goes with the submission of a paper to a journal. It is a letter to the editor which describes what you did in maximum of one page. 
-- Objective is to convince the editor of your papers relevance to their journal. 
-- Advice from [Springer](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574) for the cover letter
-- Use templates for the cover letter - several can be found from a simple google search
-- Typically the editor sees tonnes of papers from all kinds of different fields so it's important to give them context on why your work is important - Relevant and Timely.
-- The cover letter is useful to tell the editor what you have been doing and why it's relevant apart from what is contained in the paper itself. 
-- Remember the editors care about their own readership so showing that your work is important, is important!
-
-### Follow up letters
-
-- The same guidelines as before apply here. e respectful, polite and formal.
-- Do not dismiss recommendations or critiques, be mindful of them and accept them when they are constructive, especially if the reviewer is known to be a senior member of your community.
-- At the same time, you don't immediately have to accede to everything. In case you think that some of the observations of the reviewers is because they have not understood the paper, do clarify your viewpoint. 
-  - For example "Thank you for your observations with regard to XY that Z should also be included. While agreeing to most of your views, we also want to bring to your notice ABC which may address some of your concerns. Specifically, ---some explanation here---. Do let us know if this satisfies your question. In case you still have more questions or want us to include Z, we would be happy to send over a revised draft."
 
 ---------------------------------------
 
-## The process of writing
-The writing of the paper need not be linear in terms of the building blocks described previously
-- Most times this is a bad idea! You are often writing the paper (in panic mode!) a few hours before that colloquium you really want to go to.
-- You are often putting most of the best efforts in the analysis, because thats often seen as what you are contributing to - that is your research. Again, may not be best idea if you lose sight of the research question and research design. 
-
-Notes from those in the know:
-- Rewrite the final versions of introduction, conclusion and abstract at the very last.
-- Put huge efforts and energy in these three sections - introduction, conclusion and most importantly abstract. This may be the things that people read first or even the only things that people read.
-- Know your community. Write for a specific journal or knowing the style of those who have written before you in those journals.
-
 
 --------------------------------------
 
-## Create your own review
-
-### Review Yourself
-
-Basic Checklist as follows:
-- Did you pass the so what test?
-- Does the problem statement remain the same throughout the paper?
-- Is the title of the paper coherent?
-- Are the Keywords adequate?
-- Is the content of the research coherent with the aims and scopes of the journal you are targeting?
 
 #### Does your paper tell a story?
 
