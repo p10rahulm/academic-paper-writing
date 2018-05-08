@@ -1,3 +1,4 @@
+
 ## Preface
 
 The primary purpose of these set of notes I've compiled is towards my own journey in Science. Researching is difficult. It is even more difficult outside of an institutional support system. But one must find a way to cross barriers.
@@ -5,6 +6,7 @@ The primary purpose of these set of notes I've compiled is towards my own journe
 I've collected some useful notes on writing papers. Some of these may be useful to you and some others you may want to modify to your needs. My primary reference: [How to write a scientific paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
 
 If you liked these notes, feel free to pass on.
+
 
 --------------------------------------
 
