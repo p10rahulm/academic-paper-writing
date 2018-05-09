@@ -2,9 +2,13 @@
 ---
 ## Preface
 
-The idea of doing something for posterity has always excited me as a goal for leading a life. It gives a satisfaction of knowing that you have done something worthwhile during your time here. 
+The need for an overarching goal in life has been well established. People with such goals tend to typically architect their lives around these goals and are therefore in a much better position to achieve them.
 
-But impacting the course of humanity is not an easy task. One must either find
+There are many overarching life goals that one may take up in one's own life. These overarching goals typically allow up to define our smaller tasks and take up
+
+The idea of doing something for posterity has always excited me as a goal for leading a life. It gives a satisfaction of knowing that you have done something worthwhile during your time here.
+
+But impacting the course of humanity is not an easy task. One must either find a profession that by its very nature impacts a very large number of individuals.
 
 My own journeys have taken me into forays across many fields with plenty of confusion as to what to do. Luckily for me, there was a field that was always staring at me from get go, but I had ignored
 
