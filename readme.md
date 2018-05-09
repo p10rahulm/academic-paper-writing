@@ -4,7 +4,9 @@
 
 ### Decision Making
 
-The study of neuroscience has progressed remarkably in the past 50 years. From knowing the neuro-anatomy, we have moved towards a functional description of the brain. While there is still progress to be had at the level of the whole brain, studies have been quite detailed at the level of the individual neuron. We understand the first principles of its action and are able to model its working. Yet the understanding of the brain is remarkably unclear lead to success, Even without neuroscience, the main thing that is clear is that there is a remarkable amount of complexity resulting from the actions of the brain. In fact our entire human edifice rests on the functionality provided by the brain. The next thing that is clear from each of these studies is that there are no electrically functional parts in the brain outside of the neuron. 
+The study of neuroscience has progressed remarkably in the past 50 years. From knowing the neuro-anatomy, we have moved towards a functional description of the brain. Studies have been quite detailed at the level of the individual neuron. We understand the first principles of its action and are able to model its working. We understand the chemical nature of interactions between neurons as well as the electrical action leading to a neuron firing. This is a remarkable progress and has enabled treatment of diseases ranging from epilepsy to p.
+
+Yet the understanding of the brain is remarkably unclear lead to success, Even without neuroscience, the main thing that is clear is that there is a remarkable amount of complexity resulting from the actions of the brain. In fact our entire human edifice rests on the functionality provided by the brain. The next thing that is clear from each of these studies is that there are no electrically functional parts in the brain outside of the neuron.
 
 and yet while we understand (or think we understand) the neuron thoroughly, the actions of the brain, the physical actions of the body and responses to stimuli and especially the emergence of the mind are remarkably hard to explain.
 
