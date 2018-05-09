@@ -12,9 +12,11 @@ The script of science is written and re-written and re-written. Like there is on
 Thus the lonely scientist trudges on and on, with no goal within view, no faithful for company and no harbours to seek. Yet, not a minute to be had and no limit to the collective dream.
 
 ---
+## Preface or An Ode to the Scientist
 
+The idea of doing something for posterity has always excited me as a goal for leading a life. My own journeys have taken me into forays across many fields and finally 
 
-The idea of doing something for posterity has always excited me as a goal for leading a life. As I explored scientific history there were what seemed to me like champions, or the people . As Galileo and
+As I explored scientific history there were what seemed to me like champions, or the people . As Galileo and
 
 
 This pull of science that has been unique as it has been powerful in it's own way has created a .
