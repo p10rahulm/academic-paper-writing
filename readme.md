@@ -1,14 +1,29 @@
 
 ---
-## Preface
+## Why Science
 
-The need for an overarching goal in life has been well established. People with such goals tend to typically architect their lives around these goals and are therefore in a much better position to achieve them.
+### Decision Making
+
+The study of neuroscience has progressed remarkably in the past 50 years. From knowing the neuro-anatomy, we have moved towards a functional description of the brain. While there is still progress to be had at the level of the whole brain, studies have been quite detailed at the level of the individual neuron. We understand the first principles of its action and are able to model its working. Yet the understanding of the brain is remarkably unclear lead to success, Even without neuroscience, the main thing that is clear is that there is a remarkable amount of complexity resulting from the actions of the brain. In fact our entire human edifice rests on the functionality provided by the brain. The next thing that is clear from each of these studies is that there are no electrically functional parts in the brain outside of the neuron. 
+
+and yet while we understand (or think we understand) the neuron thoroughly, the actions of the brain, the physical actions of the body and responses to stimuli and especially the emergence of the mind are remarkably hard to explain.
+
+From each of these studies, what is clear is that the remarkable complexity of the brain and the action of the brain is formed due to its architecture and simple base rules. The simplest decision making is carried out at the level of the neuron.
+
+The need for an overarching goal in life has been proclaimed from time immemorial. A sound driver was known to be
+
+Such was the importance of the overarching goals that people have tended to create entire societal divisions around such goals. But today we have come to the more nuanced view
+
+If we believe in the misnomer that there is free-will, it stands to reason that there may be innumerable decisions to make at almost
+
+People with such goals tend to typically architect their lives around these goals and are therefore in a much better position to achieve them.
 
 There are many overarching life goals that one may take up in one's own life. These overarching goals typically allow up to define our smaller tasks and take up
 
 The idea of doing something for posterity has always excited me as a goal for leading a life. It gives a satisfaction of knowing that you have done something worthwhile during your time here.
 
 But impacting the course of humanity is not an easy task. One must either find a profession that by its very nature impacts a very large number of individuals.
+
 
 My own journeys have taken me into forays across many fields with plenty of confusion as to what to do. Luckily for me, there was a field that was always staring at me from get go, but I had ignored
 
